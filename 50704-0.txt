@@ -1,71 +1,65 @@
+*** START OF THE PROJECT GUTENBERG EBOOK 50704 ***
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+Vol. I. No. 4.
 
-<html>
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>The Project Gutenberg e-Book of The National Geographic Magazine, Vol. 1, No. 4, by Various</title>
-	<link rel="coverpage" href="images/img-cover.jpg">
-	<style type="text/css">
-		<!--
-		body {margin:10%; text-align:justify}
-		h1   {text-align:center}
-		h2   {text-align:center}
-		h3   {text-align:center}
-		h4   {text-align:center}		-->
-		</style>
-</head>
+THE NATIONAL GEOGRAPHIC MAGAZINE.
 
-<body>
-<div>*** START OF THE PROJECT GUTENBERG EBOOK 50704 ***</div>
 
-<center><img src="images/img-cover.jpg" alt="cover"></center>
-<br>
-<br>
-<br>
-<br>
-<h3>CONTENTS.</h3>
-<hr align="center" width="25%">
-<br>
-<p><a href="#chap1">Irrigation in California</a>, by Wm. Hammond Hall, State Engineer of California</p>
 
-<p><a href="#chap2">Round about Asheville</a>, by Bailey Willis<br>
-&nbsp;&nbsp;&nbsp;&nbsp;(Illustrated by one Map and Profile.)</p>
 
-<p><a href="#chap3">A Trip to Panama and Darien</a>, by Richard U. Goode<br>
-&nbsp;&nbsp;&nbsp;&nbsp;(Illustrated by one Map and Profile.)</p>
+PUBLISHED BY THE
 
-<p><a href="#chap4">Across Nicaragua with Transit and Machéte</a>, by R. E. Peary, Civil Engineer, U. S. N.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;(Illustrated by one Map and three Views.)</p>
+NATIONAL GEOGRAPHIC SOCIETY.
 
-<blockquote>October, 1889.</blockquote>
-<br>
-<br>
-<br>
-<br>
-<center><small><small>PRESS OF TUTTLE, MOREHOUSE &amp; TAYLOR, NEW HAVEN, CONN.</small></small></center>
-<br>
-<br>
-<br>
-<br>
-<h4>THE</h4>
-<h2>NATIONAL GEOGRAPHIC MAGAZINE.</h2>
-<hr align="center" width="100%">
-<center>Vol. I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-1889.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No. 4.</center>
-<hr align="center" width="100%">
-<br>
-<br><a name="chap1"></a>
-<br>
-<br>
-<h3>IRRIGATION IN CALIFORNIA.</h3>
+WASHINGTON, D. C.
 
-<center>B<small>Y</small> W<small>M</small>. H<small>AMMOND</small> H<small>ALL</small>.</center>
 
-<br>
-<p><i>Mr. President and Gentlemen of the Society:</i></p>
+Price 50 Cents.
 
-<p>When I was invited to address this society I had no material at hand on
+
+
+
+CONTENTS.
+
+
+Irrigation in California, by Wm. Hammond Hall, State Engineer of
+  California
+
+Round about Asheville, by Bailey Willis
+    (Illustrated by one Map and Profile.)
+
+A Trip to Panama and Darien, by Richard U. Goode
+    (Illustrated by one Map and Profile.)
+
+Across Nicaragua with Transit and Machéte, by R. E. Peary, Civil
+  Engineer, U. S. N.
+    (Illustrated by one Map and three Views.)
+
+  October, 1889.
+
+
+
+
+PRESS OF TUTTLE, MOREHOUSE & TAYLOR, NEW HAVEN, CONN.
+
+
+
+
+THE NATIONAL GEOGRAPHIC MAGAZINE.
+
+Vol. I. 1889. No. 4.
+
+
+
+
+IRRIGATION IN CALIFORNIA.
+
+BY WM. HAMMOND HALL.
+
+
+_Mr. President and Gentlemen of the Society:_
+
+When I was invited to address this society I had no material at hand on
 the subject. I have come to the east without any notes or memoranda
 whatever, from which to prepare a lecture or address, no statistical
 data which would make a paper valuable, no notes of characteristic
@@ -82,7 +76,7 @@ I am unable to do so, for the reasons I have given, and shall have to
 speak rather of irrigation in California, trusting that something which
 is said, may, perchance, be valuable in relation to the subject at
 large. Irrigation in the far west, generally, is attracting a vast deal
-of attention. This is particularly the case on the Pacific Coast&mdash;the
+of attention. This is particularly the case on the Pacific Coast--the
 field with which I am specially acquainted. I apprehend that although
 many gentlemen present have a far-reaching and definite appreciation of
 the subject at large, many others do not appreciate the value and
@@ -94,9 +88,9 @@ population, without irrigation; two thirds of it will not sustain even
 a moderate population, without irrigation; while one third will not
 sustain even a sparse population, without such artificial watering.
 Think well over these facts. They are very significant. I doubt whether
-they are generally appreciated in California itself.</p>
+they are generally appreciated in California itself.
 
-<p>I have no doubt many persons are familiar with the geography of the
+I have no doubt many persons are familiar with the geography of the
 State, but, doubtless, some are not. California has a coast line of 800
 miles and a width of from 140 to 240 miles. It is traversed almost
 throughout its length by a great mountain chain extending along near
@@ -107,15 +101,15 @@ joining the Sierra Nevada, is called the Sierra Madre, and at the
 further extremity, the San Jacinto and San Diego mountains. Within the
 interior of the State, looked down upon by the Sierra Nevada on the
 east, and closed in by the Coast Range on the west, is the great
-interior basin&mdash;the valley of the San Joaquin and Sacramento
-rivers&mdash;forming a plain 450 miles long, with an average width of from
+interior basin--the valley of the San Joaquin and Sacramento
+rivers--forming a plain 450 miles long, with an average width of from
 40 to 60 miles. Outside of the Sierra Madre in the southern part of the
 State, and within the Coast Range, is another interior valley, nearly
 100 miles in length and from 20 to 30 miles in width, and outside of
 the Coast Range, and lying next to the ocean, is a plain whose length
 is from 60 to 70 miles, and width 15 to 20 miles. These three
-areas&mdash;the great interior valley, the southern interior valley, and the
-coast plain of the south&mdash;are the principal irrigation regions of the
+areas--the great interior valley, the southern interior valley, and the
+coast plain of the south--are the principal irrigation regions of the
 State. Numbers of smaller areas, as those in San Diego county, come in
 as irrigation regions of less importance, and the scattering valleys
 along the Coast Range farther north, as the Salinas, etc., will come
@@ -130,9 +124,9 @@ where irrigation is necessary and where it is being introduced. Upon
 the great Mojave desert and the Colorado desert, there is at present no
 irrigation. The water supply is very scanty. This is an irrigation
 region of the future, but it is not regarded by Californians as a
-practicable one at present.</p>
+practicable one at present.
 
-<p>With this general idea of the State, we will now look at the rainfall
+With this general idea of the State, we will now look at the rainfall
 and water supply. The State contains 157,440 square miles of territory,
 of which 17,747 drain into the ocean north of the Golden Gate, 21,665
 drain into the ocean south of the Golden Gate, 55,942 drain into the
@@ -140,9 +134,9 @@ interior basins, and 62,086 drain out at the Golden Gate. Of this
 territory which drains out by the Golden Gate, 26,187 square miles
 comprise the Sacramento valley, 31,895 square miles the San Joaquin
 valley, and 4,004 the country draining directly to the bays, making the
-62,086 given above as the whole area.</p>
+62,086 given above as the whole area.
 
-<p>The necessity for irrigation in California, and the relative necessity
+The necessity for irrigation in California, and the relative necessity
 in different parts of the State, are shown by the distribution of
 rainfall. The San Joaquin valley has an average of less than 10 inches
 of rainfall, the Sacramento has an average of between 10 and 20 inches.
@@ -150,9 +144,9 @@ The great deserts of the Mojave and Colorado have an average of less
 than 10 inches, and in certain localities only 3 to 6 inches. The
 Salinas valley, a small portion of the coast above Los Angeles, and a
 portion of the interior valley of the south, have also an average of
-less than 10 inches.</p>
+less than 10 inches.
 
-<p>So, we may say, that the great irrigation regions of California have
+So, we may say, that the great irrigation regions of California have
 average amounts of rainfall varying from about 6 up to 20, but
 generally less than 10 inches. This rain is distributed in four or five
 months of each year, with some slight showers in one or two months
@@ -164,7 +158,7 @@ for instance, in Spain, where water is used more extensively than in
 California, the annual mean rainfall ranges between 10 and 25 inches.
 In the irrigation regions of France, the mean rainfall ranges from 10
 to 40 inches; in the irrigation regions of Italy, the rainfall is
-between 20 and 35 inches&mdash;for instance, in the valley of the Po, the
+between 20 and 35 inches--for instance, in the valley of the Po, the
 classic land of irrigation, the annual precipitation is from 25 to 35
 inches. There are none of these European irrigation regions where the
 rainfall is less than 10, and generally it is over 20 inches. But you
@@ -177,21 +171,22 @@ follows, then, that there is no place in Europe where it is so much
 needed as over a large part of California. Another reason why the
 necessity is felt in our Pacific Coast State, is found in the character
 of our soils; and not alone the surface soils, but the base of the
-soil&mdash;the deep subsoils. We have soils exceptionally deep; soils which
+soil--the deep subsoils. We have soils exceptionally deep; soils which
 extend below the surface to 50 feet, underlaid by loose sand and open
 gravels, so that the rainfall of winter is lost in them. The annual
 rain seldom runs from the surface. It follows that these lands are
-generally barren of vegetation without the artificial application of water.</p>
+generally barren of vegetation without the artificial application of
+water.
 
-<p>Considering now the sources of water-supply: we have in the southern
+Considering now the sources of water-supply: we have in the southern
 part of the State many streams which flow only for a few weeks after
 rainfall, and other streams which run two or three months after the
 rainy season. But there is not a stream in all California south of the
 Sierra Madre (except the Colorado, which has it sources of supply
 outside of the State) which flows during the summer with a greater
-volume than about 70 to 80 cubic feet per second&mdash;a stream 15 feet in
+volume than about 70 to 80 cubic feet per second--a stream 15 feet in
 width, 2 feet deep, and flowing at the rate of 2½ to 3 feet per
-second&mdash;a little stream that, in the eastern part of the continent,
+second--a little stream that, in the eastern part of the continent,
 would be thought insignificant. The largest stream for six months in
 the year, in all southern California, is the Los Angeles river. The
 Santa Aña river, the next largest, flows from two sevenths to one third
@@ -216,9 +211,10 @@ much as the Tuolumne, so that in the northern part of the great valley,
 where the rainfall on the valley itself is greatest, and, consequently,
 the necessity for irrigation is least, the irrigation supply increases;
 and conversely, the greatest area of irrigation in the valley and the
-greatest necessity for it, is, in general, where the water supply is least.</p>
+greatest necessity for it, is, in general, where the water supply is
+least.
 
-<p>About 100 years ago irrigation was commenced in California. The Roman
+About 100 years ago irrigation was commenced in California. The Roman
 Catholic priests, coming from Mexico where irrigation had long been
 practiced, introduced it. They established missions among the Indians,
 started cultivation, and by the labor of these Indians built the
@@ -228,9 +224,9 @@ acres; in San Bernardino county in the southern interior valley, they
 thus cultivated and watered, perhaps 2000 acres; and in Los Angeles
 county there were possibly 3000 acres irrigated under Mexican rule.
 Traces of the old mission works are found in San Diego, San Bernardino
-and Los Angeles counties, and as far north as Monterey county.</p>
+and Los Angeles counties, and as far north as Monterey county.
 
-<p>Then came the gold fever, when canals were dug throughout the
+Then came the gold fever, when canals were dug throughout the
 foot-hills of the western slope of the Sierra Nevada, for the supply of
 water for the mining of gold; and these canals have since, in many
 instances, been turned into feeders for irrigation. Several thousand
@@ -248,10 +244,10 @@ utilized for irrigation. These instances represent in general outline
 the commencement of irrigation in the State. Now we have in the
 neighborhood of 750,000 or 800,000 acres actually irrigated each year,
 and that represents what would ordinarily be called an irrigation area
-of 1,200,000 acres; and there are commanded by the works&mdash;reasonably
-within the reach of existing canals&mdash;an area of about 2,500,000 acres.</p>
+of 1,200,000 acres; and there are commanded by the works--reasonably
+within the reach of existing canals--an area of about 2,500,000 acres.
 
-<p>In the organization of irrigation enterprises there is great diversity.
+In the organization of irrigation enterprises there is great diversity.
 Commencing with the simplest form, we have a ditch constructed by the
 individual irrigator for his own use; we have then successively ditches
 constructed by associated irrigators without a definite organization,
@@ -268,11 +264,11 @@ incorporated for the purpose of selling water. There is a great
 difference between the principles of these methods of organization, and
 the practical outcome is a great difference in the service of water and
 in the duty of water furnished by them. In selling water, measurement
-of volume is made by modules&mdash;the actual amount of water delivered is
-measured&mdash;or it is sold by the acre served, or in proportional parts of
-the total available flow of the season.</p>
+of volume is made by modules--the actual amount of water delivered is
+measured--or it is sold by the acre served, or in proportional parts of
+the total available flow of the season.
 
-<p>The general character of the irrigation works of the State varies very
+The general character of the irrigation works of the State varies very
 much with the varying conditions under which it is practiced. In the
 San Joaquin valley, King's river, for instance, comes out of the
 mountains nearly on a level with the surface of the plain, cutting down
@@ -287,7 +283,7 @@ a small force of the farmers themselves. On King's river, individual
 and simple coöperative effort is sufficient to bring water enough upon
 the plains to irrigate thousands of acres, while in the case of the
 Tuolumne river it is absolutely necessary to have associated capital in
-large amount&mdash;an entirely different principle of organization from that
+large amount--an entirely different principle of organization from that
 which was originally applied on King's river and the Kern and other
 rivers in the southern part of the great central valley. In discussions
 on the subject of irrigation some people have advanced the idea that
@@ -300,9 +296,9 @@ farmers can avail nothing. There must be strong associations and large
 capital. For this purpose special laws are required. On the Santa Aña,
 in San Bernardino county, water has been easily diverted, and such is
 the case with every stream in the interior valley of San Bernardino and
-Los Angeles counties.</p>
+Los Angeles counties.
 
-<p>Capital for the first works was not required. The water was procured by
+Capital for the first works was not required. The water was procured by
 primitive methods and the works were simple. But in San Diego, an
 entirely different condition of affairs prevailed. There the waters are
 back in the mountains, twenty or twenty-five miles from the coast, and
@@ -349,9 +345,9 @@ of very considerable volume, but its waters are in comparatively deep
 channels, not very well adapted to diversion, and the consequence is,
 they have been utilized to a very small extent, only on small
 bottom-land farms. The whole stream can be utilized, however, and the
-country is thirsting for water.</p>
+country is thirsting for water.
 
-<p>The practice of irrigation in California is as diverse as it could well
+The practice of irrigation in California is as diverse as it could well
 be. California, as you know, covers a very large range in latitude, but
 a greater range in the matter of climate and adaptability to the
 cultivation of crops. In the southern portion of the State, the orange
@@ -370,13 +366,13 @@ check levels that by simply opening gates in the proper order, as the
 irrigation superintendents know how, the waters flow out and cover the
 successive plats or "checks" in their order, without leaving any
 standing water, and finally flowing off without material waste. This is
-the perfection of irrigation by the broad or submerging system,&mdash;a
+the perfection of irrigation by the broad or submerging system,--a
 method wherein the slope of the ground is first ascertained, platted by
 contours, and the checks to hold the water, constructed with scrapers,
-are then run out on slight grade contours&mdash;not perfectly level, but on
-very gentle slopes.</p>
+are then run out on slight grade contours--not perfectly level, but on
+very gentle slopes.
 
-<p>There is no portion of the far southern part of the State where the
+There is no portion of the far southern part of the State where the
 check method is applied as it is in Kern county. The practice in San
 Bernardino is to irrigate entirely by running water in rills between
 the rows of plants. Orange trees planted 24 to 30 feet apart are
@@ -389,15 +385,15 @@ water is conducted by a ditch, and the basin being filled, the water is
 allowed to remain and soak away. The low, nearly flat valley lands,
 when irrigated, are generally divided into square "checks," without
 respect to the slope of the ground, and the surface is simply flooded
-in water standing 6 inches to a foot in depth.</p>
+in water standing 6 inches to a foot in depth.
 
-<p>In the northern part of the State, in Placer and Yuba counties, clover
+In the northern part of the State, in Placer and Yuba counties, clover
 is grown on hills having side slopes of 10 to 15 feet in a hundred, and
-irrigated in plough furrows cut around on contours&mdash;which furrows are
-about 5 to 10 feet apart horizontally&mdash;and the water is allowed to soak
-into the ground from each such furrow.</p>
+irrigated in plough furrows cut around on contours--which furrows are
+about 5 to 10 feet apart horizontally--and the water is allowed to soak
+into the ground from each such furrow.
 
-<p>These are the five principal methods of applying water: by the check
+These are the five principal methods of applying water: by the check
 system; by rills; by the basin method; by the basin method as applied
 to low valleys; and by contour ditches on hill sides. The method
 selected for any particular locality is determined not alone by the
@@ -408,13 +404,13 @@ generally used, water cannot be applied by the flooding system, for the
 reason that irrigation would be followed by cracking of the soil, so
 that the trees would be killed. It is necessary on such land to
 cultivate immediately after irrigation, and the method of application
-is governed more by the soil than by the character of the crop.</p>
+is governed more by the soil than by the character of the crop.
 
-<p>We find in California very marked and important effects following
+We find in California very marked and important effects following
 irrigation. For instance, taking the great plains of Fresno, in the San
 Joaquin valley: when irrigation commenced there twenty years ago, it
-was 70 to 80 feet down to soil water&mdash;absolutely dry soil for nearly 80
-feet&mdash;and it was the rule throughout the great plain, 20 miles in width
+was 70 to 80 feet down to soil water--absolutely dry soil for nearly 80
+feet--and it was the rule throughout the great plain, 20 miles in width
 and 25 miles in length, that soil water was beyond the reach of the
 suction pump; now, in places, water stands on the surface, rushes grow,
 mosquitos breed, malarial fevers abound, and the people are crying for
@@ -424,9 +420,10 @@ is considered unnecessary. The amount of water taken from King's river
 which was, a few years ago, regarded as not more than sufficient for
 one tenth of the land immediately commanded and that seemed to require
 it, is now applied to a fourth of the whole area; so that if irrigation
-keeps on, the time will come when the whole country will require draining.</p>
+keeps on, the time will come when the whole country will require
+draining.
 
-<p>In a district, where water is applied by the broad method, I saw in
+In a district, where water is applied by the broad method, I saw in
 1877 enough water, by actual measurement of flow, put on 20 acres of
 land to cover it 18 feet deep, in one season, could it all have been
 retained upon it. It simply soaked into the ground, or flowed out under
@@ -442,9 +439,10 @@ Kern delta, affects the water in the wells 6 or 8 miles away. As I
 remember the effect is felt at the rate of about a mile a day, that is
 to say, when water is used in irrigating the upper portion of the
 delta, or of Kern island, as it is called, the wells commence to rise a
-mile away in twenty-four hours, and five miles away in perhaps five days.</p>
+mile away in twenty-four hours, and five miles away in perhaps five
+days.
 
-<p>In the southern portion of the State, in San Bernardino county, at
+In the southern portion of the State, in San Bernardino county, at
 Riverside, we find no such effect at all. There it was 70 to 90 feet to
 soil water before irrigation and it is, as a general rule, 70 to 90
 feet still. Water applied on the surface in some places has never even
@@ -452,8 +450,8 @@ wet the soil all the way down, and wells dug there, after irrigation
 had been practiced for years, have pierced dry ground for 25 or 30 feet
 before getting down to where soil waters have wetted it from below. The
 consequences of these phenomena are twofold. In the first place, in the
-country that fills up with water, the duty of water&mdash;the quantity of
-land which a given amount of water will irrigate&mdash;has increased.
+country that fills up with water, the duty of water--the quantity of
+land which a given amount of water will irrigate--has increased.
 Starting with a duty of not more than 25 acres to a cubic foot of water
 per second, we now find that, in some localities, this amount irrigates
 from 100 to 160 acres; and that some lands no longer require
@@ -463,13 +461,13 @@ possible that it will ever irrigate much more. The saving, as
 irrigation goes on in the far southern portion of the State, will be
 effected chiefly through the better construction of canals and
 irrigation works of delivery and distribution. In Tulare valley, the
-duty of water will increase as the ground fills up.</p>
+duty of water will increase as the ground fills up.
 
-<p>In Fresno, a county which was regarded as phenomenally healthy,
+In Fresno, a county which was regarded as phenomenally healthy,
 malarial fevers now are found, while in San Bernardino, at Riverside,
 such a thing is rarely known. Coming to Bakersfield, a region which
-before irrigation commenced was famed for its malarial fevers&mdash;known as
-unhealthful throughout all the State&mdash;where soil water was originally
+before irrigation commenced was famed for its malarial fevers--known as
+unhealthful throughout all the State--where soil water was originally
 within 15 feet of the surface, irrigation has almost entirely rid it of
 the malarial effects. Chills and fever are rare now, where before
 irrigation they were prevalent. What is the reason that where chills
@@ -490,9 +488,9 @@ through these channels from the main river throughout the hot months,
 and the swamp-like condition of the country was changed to one of a
 well-tilled agricultural neighborhood with streams of fresh water
 flowing through it; and the result, as I have said, was one happy in
-its effect of making the climate salubrious and healthful.</p>
+its effect of making the climate salubrious and healthful.
 
-<p>Considering now the case of the King's river or the Fresno country, the
+Considering now the case of the King's river or the Fresno country, the
 lands there were a rich alluvial deposit, abounding in vegetable matter
 which for long ages perhaps had been, except as wetted by the rains of
 winter, dry and desiccated. Soil water was deep below the surface. Then
@@ -501,8 +499,8 @@ filled up with the water. Its absorptive qualities being great and its
 natural drainage defective, the vegetable matter in the soil, subjected
 to more or less continued excessive moisture, has decayed. The
 fluctuation of the surface of the ground waters at different seasons of
-the year&mdash;such surface being at times very near to the ground surface,
-and at other times 5 or 6 feet lower&mdash;has contributed to the decaying
+the year--such surface being at times very near to the ground surface,
+and at other times 5 or 6 feet lower--has contributed to the decaying
 influences which the presence of the waters engendered. The result has
 been, when taken with the general overgrowth of the country with
 vegetation due to irrigation, a vitiation of the atmosphere by
@@ -512,9 +510,9 @@ poisonings arising from an over-wet and ill-drained neighborhood, with
 the results, as affecting human healthfulness, of which I have already
 spoken. The remedy is of course to drain the country. The example is
 but a repetition of experiences had in other countries. The energy and
-pluck of Californians will soon correct the matter.</p>
+pluck of Californians will soon correct the matter.
 
-<p>George P. Marsh, in his "Man and Nature," laid it down as a rule that
+George P. Marsh, in his "Man and Nature," laid it down as a rule that
 an effect of irrigation was to concentrate land holdings in a few
 hands, and he wrote an article, which was published in one of our
 Agricultural Department reports, in which he rather deprecates the
@@ -554,73 +552,64 @@ calculations have been made and examples cited by intelligent and
 prominent people, to show that good orange land or good raisin-grape
 land with sufficient water supply is well worth $1000 an acre. Water
 rights run up proportionately in value. A little stream flowing an inch
-of water&mdash;an amount that will flow through an inch square opening under
-four inches of pressure&mdash;in the southern part of the State, is held at
+of water--an amount that will flow through an inch square opening under
+four inches of pressure--in the southern part of the State, is held at
 values ranging from $500 to $5000. Such a little stream has changed
 hands at $5000, and not at boom prices either. In the interior prices
 are much less, being from about a quarter to a tenth of those in the
-far southern part of the State.</p>
+far southern part of the State.
 
-<p>Fully one fourth of the United States requires irrigation. When I say
+Fully one fourth of the United States requires irrigation. When I say
 that, I mean that fully one fourth the tillable area of our country
 requires irrigation, in order to support such a population as, for
 instance, Indiana has. The irrigated regions of Italy support
 populations of from 250 to 300 people to the square mile; of south
 France, from 150 to 250 people to the square mile; of southeast Spain,
 from 200 to 300. When we have 50 to 100 to the square mile in an
-agricultural region we think we have a great population.</p>
+agricultural region we think we have a great population.
 
-<p>The great interior valley of California will not support, without
+The great interior valley of California will not support, without
 irrigation, an average of more than 15 to 20 people per square mile.
 Irrigate it and it will support as many as any other portion of the
-country&mdash;reasonably it will support 200 to the square mile. I have no
+country--reasonably it will support 200 to the square mile. I have no
 doubt that the population will run up to ten or twelve millions in that
 one valley, and there are regions over this country from the
 Mississippi to the Pacific, millions of acres, that can be made to
 support a teeming population by the artificial application of water.
 And why has it not been done before? Simply for the reason that there
 is a lack of knowledge of what can be done and a lack of organization
-and capital to carry out the enterprises.</p>
+and capital to carry out the enterprises.
 
-<p>The government has recently placed at the disposal of the United States
+The government has recently placed at the disposal of the United States
 Geological Survey an appropriation for the investigation of this
 subject, to ascertain how irrigation can be secured, the cost of
 irrigation works, and point out the means for irrigation, in the arid
 regions. It is one of the wisest things Congress ever did; wise in the
 time and in the subject. The time will soon come when the question
 would have been forced upon the country, and the wisdom of preparing
-for that time cannot be too highly commended.</p>
-<br>
-<br><a name="chap2"></a>
-<br>
-<br>
-<h3>ROUND ABOUT ASHEVILLE.</h3>
-<center>B<small>Y</small> B<small>AILEY</small> W<small>ILLIS</small>.</center>
-<br>
+for that time cannot be too highly commended.
 
-<p>A broad amphitheatre lies in the heart of the North Carolina mountains
+
+
+
+ROUND ABOUT ASHEVILLE.
+
+BY BAILEY WILLIS.
+
+
+A broad amphitheatre lies in the heart of the North Carolina mountains
 which form its encircling walls; its length is forty miles from north
 to south and its width ten to twenty miles. At its southern gate the
 French Broad river enters; through the northern gate the same river
-flows out, augmented by the many streams of its extensive watershed.</p>
+flows out, augmented by the many streams of its extensive watershed.
 
-<center><img src="images/1.jpg" alt="geological survey map of Asheville region"></center>
+[Illustration: GEOLOGICAL SURVEY. NORTH CAROLINA/TENNESSEE. ASHEVILLE
+SHEET. Contour interval 100 feet. 1888.]
 
-<table align="right" border="0" cellspacing="0" cellpadding="6" summary="Figure 2">
-	<tr>
-		<td width="247">
-			<img src="images/2.jpg" alt="Natural profiles">
-		</td>
-	</tr>
-	<tr>
-		<td width="247" align="center">
-			<small>SECTION FROM THE CUMBERLAND PLATEAU TO THE BLUE RIDGE.<br>
-			Natural profiles.</small>
-		</td>
-	</tr>
-</table>
+[Illustration: SECTION FROM THE CUMBERLAND PLATEAU TO THE BLUE RIDGE.
+Natural profiles.]
 
-<p>From these water-courses the even arena once arose with gentle slope to
+From these water-courses the even arena once arose with gentle slope to
 the surrounding heights and that surface, did it now exist, would make
 this region a very garden, marked by its genial climate and adequate
 rainfall. But that level floor exists no longer; in it the rivers first
@@ -630,9 +619,9 @@ is now only visible from those points of view from which remnants of
 its surface fall into a common plane of vision. This is the case
 whenever the observer stands upon the level of the old arena; he may
 then sweep with a glance the profile of a geographic condition which
-has long since passed away.</p>
+has long since passed away.
 
-<p>Asheville is built upon a bit of this plain between the ravines of the
+Asheville is built upon a bit of this plain between the ravines of the
 French Broad and Swannanoa rivers, now flowing 380 feet below the
 level, and at the foot of the Beau-catcher hills; toward which the
 ground rises gently. The position is a commanding one, not only for the
@@ -650,13 +639,13 @@ every available rack and fence, and horse trading was active. Whiskey
 was on trial at other bars than that of the court, and the long rifle,
 powder-horn and pouch had not been left in the mountains. To a
 "tenderfoot" (who had the day before been mistaken for a rabbit or a
-revenue officer!) the attentions of the crowd were not reassuring.</p>
+revenue officer!) the attentions of the crowd were not reassuring.
 
-<p>The general opinion was, I felt, akin to that long afterward expressed
+The general opinion was, I felt, akin to that long afterward expressed
 by Groundhog Cayce: "It air an awful thing ter kill a man by accident;"
-and I staid but a very short time in Asheville.</p>
+and I staid but a very short time in Asheville.
 
-<p>Riding away toward the sunset, I traversed the old plain without seeing
+Riding away toward the sunset, I traversed the old plain without seeing
 that it had had a continuous surface. I noted the many gullies, and I
 lost in the multitude of details the wide level from which they were
 carved. That the broader fact should be obscured by the many lesser
@@ -745,18 +734,19 @@ toward the base. The valleys and the mountains have exchanged the
 characters they usually bear; the former are dark and forbidding, wild
 and inaccessible, the latter are broad and sunlit of softened form,
 habitable and inhabited. All roads and villages are on the heights,
-only passing travelers and those who prey upon them frequent the depths.</p>
+only passing travelers and those who prey upon them frequent the
+depths.
 
-<p>These facts of form are not local, they are general: all the streams of
+These facts of form are not local, they are general: all the streams of
 the Unaka mountains share the features of the French Broad Cañon, while
 peaks like Great Roan, Big Bald, Mt. Guyot, are but examples of a
-massive mountain form common throughout the range.</p>
+massive mountain form common throughout the range.
 
-<p>Thus the Unaka chain presents two peculiar facts for our consideration;
+Thus the Unaka chain presents two peculiar facts for our consideration;
 it is cut through by streams rising in a lower range, and its profiles
-of erosion are convex upward not downward.</p>
+of erosion are convex upward not downward.
 
-<p>If we follow our river's course beyond the Unaka chain into the valley
+If we follow our river's course beyond the Unaka chain into the valley
 of East Tennessee we shall still find the channel deeply cut; here and
 there bottomlands appear, now on one side, now on the other, but the
 banks are more often steep slopes or vertical cliffs from fifty to one
@@ -766,9 +756,9 @@ more or less abrupt cascade into the main rivers. It is thus evident
 that the tributaries cannot keep pace with the rivers in
 channel-cutting, and the latter will continue to sink below the surface
 of general degradation until their diminished fall reduces their rate
-of corrasion below that of the confluent streams.</p>
+of corrasion below that of the confluent streams.
 
-<p>If from topographic forms we turn to consider the materials, the rocks,
+If from topographic forms we turn to consider the materials, the rocks,
 of which they are composed, we shall find a general rule of relation
 between relative elevation and rock-hardness. Thus the great valley of
 East Tennessee has a general surface 3000 feet below the mean height of
@@ -784,53 +774,54 @@ soft rocks; where a more soluble, less coherent stratum crops out in
 the mountain mass, a hollow, a cove, corresponds to it. Of valley
 ridges, Clinch mountain is the most conspicuous example; of mountain
 hollows the French Broad valley at Hot Springs, or Tuckaleechee Cove
-beneath the Great Smoky mountain, is a fair illustration.</p>
+beneath the Great Smoky mountain, is a fair illustration.
 
-<p>But impassive rock-hardness, mere ability to resist, is not adequate to
+But impassive rock-hardness, mere ability to resist, is not adequate to
 raise mountains, nor is rock-softness an active agent in the formation
 of valleys. The passive attitude of the rocks implies a force, that is
 resisted, and the very terms in which that attitude is expressed
 suggest the agent which applies the force. Hardness, coherence,
-insolubility,&mdash;these are terms suggestive of resistance to a force
+insolubility,--these are terms suggestive of resistance to a force
 applied to wear away, to dissolve, as flowing water wears by virtue of
 the sediment it carries and as percolating waters take the soluble
 constituent of rocks into solution. And it is by the slow mechanical
 and chemical action of water that not only cañons are carved but even
-mountain ranges reduced to gentle slopes.</p>
+mountain ranges reduced to gentle slopes.
 
-<p>If we designate this process by the word "degradation," it follows from
+If we designate this process by the word "degradation," it follows from
 the relation of resistance to elevation in the region under discussion
 that we may say: The Appalachians are mountains of differential
 degradation; that is, heights remain where the rocks have been least
 energetically acted on, valleys are carved where the action of water
-has been most effective.</p>
+has been most effective.
 
-<p>In order that the process of degradation may go on it is essential that
+In order that the process of degradation may go on it is essential that
 a land mass be somewhat raised above the sea, and, since the process is
 a never-ceasing one while streams have sufficient fall to carry
 sediment, it follows that, given time enough, every land surface must
-be degraded to a sloping plain, to what has been called a base level.</p>
+be degraded to a sloping plain, to what has been called a base level.
 
-<p>With these ideas of mountain genesis and waste, let us consider some
+With these ideas of mountain genesis and waste, let us consider some
 phases of degradation in relation to topographic forms; and in doing so
-I cannot do better than to use the terms employed by Prof. Wm. M. Davis.</p>
+I cannot do better than to use the terms employed by Prof. Wm. M.
+Davis.
 
-<p>When a land surface rises from the ocean the stream systems which at
+When a land surface rises from the ocean the stream systems which at
 once develope, are set the task of carrying back to the sea all that
 stands above it. According to the amount of this alloted work that
 streams have accomplished, they may be said to be young, mature or
 aged; and if, their task once nearly completed, another uplift raise
 more material to be carried off, they may be said to be revived. These
 terms apply equally to the land-surface, and each period of development
-is characterized by certain topographic forms.</p>
+is characterized by certain topographic forms.
 
-<p>In youth simple stream systems sunk in steep walled cañons are
+In youth simple stream systems sunk in steep walled cañons are
 separated by broad areas of surface incompletely drained. In maturity
 complex stream systems extend branches up to every part of the surface;
 steep slopes, sharp divides, pyramidal peaks express the rapidity with
-which every portion of the surface is attacked.</p>
+which every portion of the surface is attacked.
 
-<p>In old age the gently rolling surface is traversed by many quiet
+In old age the gently rolling surface is traversed by many quiet
 flowing streams; the heights are gone, the profiles are rounded, the
 contours subdued. In the first emergence from the sea the courses of
 streams are determined by accidents of slope, it may be by folding of
@@ -839,9 +830,9 @@ of retrogressive erosion, by which a stream cuts back into the
 watershed of a less powerful opponent stream, adjusts the channels to
 the outcrops of soft rocks and leaves the harder strata as eminences.
 In old age this process of differential degradation is complete and
-only the hardest rocks maintain a slight relief.</p>
+only the hardest rocks maintain a slight relief.
 
-<p>Suppose that an aged surface of this character be revived: the rivers
+Suppose that an aged surface of this character be revived: the rivers
 hitherto flowing quietly in broad plains will find their fall increased
 in their lower courses; their channels in soft rock will rapidly become
 cañons, and the revived phase will retreat up stream in the same manner
@@ -852,20 +843,21 @@ might creep over the valley while yet the summits of the first old age
 remained unattacked, and should perchance revival succeed revival the
 record of the last uplift might be read in sharp cut channels of the
 great rivers, while the forms of each preceding phase led like steps to
-the still surviving domes of that earliest old age.</p>
+the still surviving domes of that earliest old age.
 
-<p>Is there aught in these speculations to fit our facts? I think there
+Is there aught in these speculations to fit our facts? I think there
 is. We have seen that our mountains and valleys are the result of
 differential degradation, and that this is not only broadly true but
 true in detail also. This is evidence that streams have been long at
-work adjusting their channels, they have passed through the period of maturity.</p>
+work adjusting their channels, they have passed through the period of
+maturity.
 
-<p>We have climbed to the summits of the Unakas and found them composed of
+We have climbed to the summits of the Unakas and found them composed of
 rocks as hard as those from which the pinnacle of the Matterhorn is
 chiseled; but we see them gently sloping, as a plain. These summits are
-very, very old.</p>
+very, very old.
 
-<p>We have recognized that dissected plain, the level of the Asheville
+We have recognized that dissected plain, the level of the Asheville
 amphitheatre, now 2,400 feet above the sea; it was a surface produced
 by subaerial erosion, and as such it is evidence of the fact that the
 French Broad River, and such of its tributaries as drain this area, at
@@ -874,9 +866,9 @@ should have accomplished this the level of discharge of the sculpturing
 streams must have been constant during a long period, a condition which
 implies either that the fall from the Asheville plain to the ocean was
 then much less than it now is, or that through local causes the French
-Broad was held by a natural dam, where it cuts the Unaka chain.</p>
+Broad was held by a natural dam, where it cuts the Unaka chain.
 
-<p>If we should find that other rivers of this region have carved the
+If we should find that other rivers of this region have carved the
 forms of age upon the surfaces of their intermontane valleys, and there
 is now some evidence of this kind at hand, then we must appeal to the
 more general cause of base-levelling and accept the conclusion that the
@@ -886,26 +878,26 @@ in this ancient plain and we may note on the accompanying atlas sheet
 that the branches extend back into every part of it; the ravines
 themselves prove that the level of discharge has been lowered, the
 streams have been revived; and the wide ramification of the brooks is
-the characteristic of approaching maturity.</p>
+the characteristic of approaching maturity.
 
-<p>We have also glanced at the topography of the valley and have found the
+We have also glanced at the topography of the valley and have found the
 rivers flowing in deep-cut simple channels which are young, and the
 smaller streams working on an undulating surface that is very sensitive
-to processes of degradation.</p>
+to processes of degradation.
 
-<p>The minor stream systems are very intricate and apparently mature, but
+The minor stream systems are very intricate and apparently mature, but
 they have not yet destroyed the evidence of a general level to which
 the whole limestone area was once reduced, but which now is represented
 by many elevations that approach 1,600 feet above the sea. Here then in
 the valley are young river channels, mature stream systems and faint
 traces of an earlier base level, all of them more recent than the
 Asheville level, which is in turn less ancient than the dome-like
-summits of the Unakas.</p>
+summits of the Unakas.
 
-<p>What history can we read in these suggestive topographic forms and
-their relations?</p>
+What history can we read in these suggestive topographic forms and
+their relations?
 
-<p>The first step in the evolution of a continent is its elevation above
+The first step in the evolution of a continent is its elevation above
 the sea. The geologist tells us that the earliest uplift of the
 Appalachian region after the close of the Carboniferous period was
 preceded or accompanied by a folding of the earth's crust into
@@ -924,7 +916,7 @@ when the geologic structure of North Carolina and East Tennessee is
 known, we may be able to trace the steps of adjustment by which the
 many waters have been concentrated to form that great river. At present
 we cannot sketch the details, but we know that it was a long process
-and that it was accompanied by a change in the <i>raison d'être</i> of the
+and that it was accompanied by a change in the _raison d'être_ of the
 mountain ranges. The first mountains were high because they had been
 relatively raised; they gave place to hills that survived because they
 had not been worn down. A topography of differential uplift gave place
@@ -935,7 +927,7 @@ covered with a mantel of residual soil, the product of excessively slow
 disintegration, and they are the remnants of a surface all of which has
 yielded to degradation, save them. In time the streams will cut back
 and carve jagged peaks from their masses, but standing on their heights
-my thought has turned to the condition they represent&mdash;the condition
+my thought has turned to the condition they represent--the condition
 that is past. And thus in thought I have looked from the Big Bald out
 on a gently sloping plain which covered the many domes of nearly equal
 height and stretched away to merge on the horizon in the level of the
@@ -958,53 +950,55 @@ working always from their mouths backward, carved a base-level in the
 limestones of the great valley; but before that level could extend up
 through the gorges in the Unakas, the continent was raised to its
 present elevation, the streams responded to the increased fall given
-them and the rivers in the valley began to cut their still incomplete cañons.</p>
+them and the rivers in the valley began to cut their still incomplete
+cañons.
 
-<p>Are we not led step by step from these latest sharply cut channels up
+Are we not led step by step from these latest sharply cut channels up
 stream through the chapters of erosion to the still surviving domes of
 an early old age? Let us sum up the history we have traced. There is
-reason to believe that:</p>
+reason to believe that:
 
-<blockquote>1st. The consequent topography of the earliest Appalachian uplift was
+1st. The consequent topography of the earliest Appalachian uplift was
 entirely removed during a prolonged period of erosion and was replaced
-by a relief of differential degradation.</blockquote>
+by a relief of differential degradation.
 
-<blockquote>2d. The balds of the Unakas represent the heights of that first-known
-approach to a base-level.</blockquote>
+2d. The balds of the Unakas represent the heights of that first-known
+approach to a base-level.
 
-<blockquote>3d. The topography of the region has been revived by a general, though
+3d. The topography of the region has been revived by a general, though
 not necessarily uniform, uplift of 3,000 feet or more, divided by two
 intervals of rest; during the first of these the Asheville base-level
-was formed; during the second, the valley alone was reduced.</blockquote>
+was formed; during the second, the valley alone was reduced.
 
-<blockquote>4th. The latest movement of the uplift has been, geologically speaking,
+4th. The latest movement of the uplift has been, geologically speaking,
 quite recent, and the revived streams have accomplished but a small
-part of their new task.</blockquote>
+part of their new task.
 
-<p>These conclusions are reached on the observation of a single class of
+These conclusions are reached on the observation of a single class of
 facts in one district; they must be compared with the record of
 continental oscillation on the sea coasts, in the deposits of the
-coastal plain, and in the topography of other districts.</p>
+coastal plain, and in the topography of other districts.
 
-<p>The history of the Appalachians is written in every river system and on
+The history of the Appalachians is written in every river system and on
 every mountain range, but in characters determined for each locality by
 the local conditions. Only when the knowledge, to which every tourist
 may contribute, is extended over the entire region shall we know
-conclusively the whole story.</p>
-<br>
-<br><a name="chap3"></a>
-<br>
-<br>
-<h3>A TRIP TO PANAMA AND DARIEN.</h3>
-<center>B<small>Y</small> R<small>ICHARD</small> U. G<small>OODE</small>.</center>
-<br>
+conclusively the whole story.
 
-<p>The Government of the United States of Colombia in its act of
+
+
+
+A TRIP TO PANAMA AND DARIEN.
+
+BY RICHARD U. GOODE.
+
+
+The Government of the United States of Colombia in its act of
 Concession to the Panama Canal Company provided that it should give to
-the latter <i>"gratuitement et avec toutes les mines qu'ils pourront
-contenir"</i> 500,000 hectares of land.</p>
+the latter _"gratuitement et avec toutes les mines qu'ils pourront
+contenir"_ 500,000 hectares of land.
 
-<p>Some of the conditions attached to this grant were, that the land
+Some of the conditions attached to this grant were, that the land
 should be selected within certain limits and surveyed by the Canal
 Company; that a topographical map should be made of the areas surveyed
 and that an amount equal to that surveyed for the canal should also be
@@ -1012,33 +1006,34 @@ surveyed for the benefit of the Colombian Government. It was also
 further agreed that it would not be necessary to complete the canal
 before any of the land should be granted, but that it would be given at
 different times in amounts proportional to the amount of work
-accomplished.</p>
+accomplished.
 
-<p>Thus in 1887, the Government agreed to consider that one-half of the
+Thus in 1887, the Government agreed to consider that one-half of the
 work on the canal had been finished and that the canal was consequently
 entitled to 250,000 hectares of land, upon the completion of the
-necessary surveys, etc.</p>
+necessary surveys, etc.
 
-<p>The land was eventually chosen partly in Darien and partly in Chiriqui
-as follows:</p>
+The land was eventually chosen partly in Darien and partly in Chiriqui
+as follows:
 
-<blockquote>In Darien three lots, one between the Paya and Mangle rivers, one
+In Darien three lots, one between the Paya and Mangle rivers, one
 between the Maria and Pirri rivers, the two amounting to 100,000
-hectares, and one lot of 25,000 hectares between the Yape and Pucro rivers.</blockquote>
+hectares, and one lot of 25,000 hectares between the Yape and Pucro
+rivers.
 
-<blockquote>In Chiriqui, which is a Province of Panama just east of Costa Rica, two
+In Chiriqui, which is a Province of Panama just east of Costa Rica, two
 lots were chosen amounting to 125,000 hectares, one between the Sigsola
 and Rabalo rivers, and the other between the Catabella and San Pedro
-rivers.</blockquote>
+rivers.
 
-<p>The Canal Company wanted the title to the land in order that it might
+The Canal Company wanted the title to the land in order that it might
 be used as collateral security in bolstering up the finances of the
 corporation, and the Colombian Government was doubtless very willing to
 let the Canal Company have this amount or as much more as was wanted,
 both parties being equally aware of the valueless character of the land
-for any practical purposes.</p>
+for any practical purposes.
 
-<p>My services were engaged in 1888 in connection with the astronomical
+My services were engaged in 1888 in connection with the astronomical
 work incident to the survey of these grants and it was intended that I
 should visit both Darien and Chiriqui, but the contract term expired
 about the time of the completion of the work in Darien, which was taken
@@ -1057,9 +1052,9 @@ sailed from New York a month previously. Passage was had from Panama to
 Darien in a steamer chartered for the purpose. Sailing across the Bay
 of Panama and entering the Tuyra River at Boca Chica, we ascended the
 river as far as the village Real de St. Marie. At this point the
-steamer was abandoned and further transportation was had in canoes.</p>
+steamer was abandoned and further transportation was had in canoes.
 
-<p>Darien is a province of the State of Panama and its boundaries as given
+Darien is a province of the State of Panama and its boundaries as given
 by Lieut. Sullivan in his comprehensive work on "Problem of
 Interoceanic Communication," are as follows: "The Atlantic coast line
 is included between Point San Blas and Cape Tiburon; that of the
@@ -1067,13 +1062,14 @@ Pacific extends from the mouth of the Bayano to Point Ardita. The
 eastern boundary is determined by the main Cordillera in its sweep
 across the Isthmus from a position of close proximity to the Pacific,
 near Point Ardita, to a similar position near Tiburon, on the Atlantic.
-The valleys of the Mandinga and Mamoni-Bayano determine its western limit."</p>
+The valleys of the Mandinga and Mamoni-Bayano determine its western
+limit."
 
-<p>The Darien hills as seen from the Atlantic side present to the view an
+The Darien hills as seen from the Atlantic side present to the view an
 apparently solid ridge of mountains, although there are in reality many
-low passes which are concealed by projecting spurs.</p>
+low passes which are concealed by projecting spurs.
 
-<p>The dividing ridge hugs close to the Atlantic, and the rivers, of which
+The dividing ridge hugs close to the Atlantic, and the rivers, of which
 there are a great many on this side, plunge abruptly to the sea. On the
 Pacific side the rivers have a much longer distance to flow before
 reaching the sea, and the territory bordering on the ocean is low and
@@ -1086,16 +1082,17 @@ character of the ground, makes travel on foot through any portion of it
 exceedingly difficult. Therefore the various rivers, which form a very
 complex system and penetrate everywhere are the natural highways of the
 country. The chief rivers on the Pacific side are the Tuyra and Boyano
-with their numerous tributaries and on the Atlantic watershed is the Atrato.</p>
+with their numerous tributaries and on the Atlantic watershed is the
+Atrato.
 
-<p>A peculiarity noticed at Real de St. Marie, which is at the junction of
+A peculiarity noticed at Real de St. Marie, which is at the junction of
 the Pyrrhi and Tuyra rivers and at which point the tide has a rise and
 fall of twelve or fifteen feet, was that at low tide it was impossible
 to enter the mouth of the Pyrrhi with a boat, while five or six miles
 up the stream there was always a good supply of flowing water and at
-double that distance it became a mountain torrent.</p>
+double that distance it became a mountain torrent.
 
-<p>Outside of the swampy area the character of the country is rough and
+Outside of the swampy area the character of the country is rough and
 mountainous. The valleys are narrow and the ridges exceedingly sharp,
 the natural result of a great rain fall. The hills are able to resist
 the continued wasting effect of the vast volumes of descending water
@@ -1103,17 +1100,17 @@ only by their thick mantle of accumulated vegetation, and were it not
 for this protection the many months of continuous annual rain would
 long ago have produced a leveling effect that would have made
 unnecessary the various attempts of man to pierce the Isthmian
-mountains and form an artificial strait.</p>
+mountains and form an artificial strait.
 
-<p>The ridges are sometimes level for a short distance, but are generally
+The ridges are sometimes level for a short distance, but are generally
 broken and are made up of a succession of well rounded peaks. These
 peaks are always completely covered with trees and from the top of the
 sharpest of them it is impossible to get a view of the surrounding
 country. The highest point climbed was about 2,000 feet above sea level
 and the highest peak in Darien is Mt. Pyrrhi which is between three and
-four thousand.</p>
+four thousand.
 
-<p>Darien has been the scene of a great deal of surveying and exploration
+Darien has been the scene of a great deal of surveying and exploration
 from the time that Columbus, in 1503, coasted along its shores, hoping
 to find a strait connecting the two oceans, up to the present time.
 Balboa, in 1510, discovered the Pacific by crossing the Darien
@@ -1153,9 +1150,9 @@ a stream with the hope of finding a suitable pass. The pass might be
 found or it might not, and if not, so much labor as far as the direct
 solution of the problem was concerned was lost. A pass of low altitude
 was of primary importance and should have been sought for in an
-exhaustive way.</p>
+exhaustive way.
 
-<p>Humboldt said in substance, "Do not waste your time in running
+Humboldt said in substance, "Do not waste your time in running
 experimental lines across. Send out a party fully equipped, which
 keeping down the dividing ridge the whole length of the Isthmus, by
 this means can obtain a complete knowledge of the hypsometrical and
@@ -1172,26 +1169,28 @@ spurs, but I think I am safe in saying that starting from the summit of
 the main ridge at Culebra pass on the Isthmus of Panama, the dividing
 ridge extending to the pass at the head waters of the Atrato could be
 exhaustively followed and studied with as much facility as could either
-the Tuyra or Atrato rivers, embracing with each their respective tributaries.</p>
+the Tuyra or Atrato rivers, embracing with each their respective
+tributaries.
 
-<p>I traveled on some of the high dividing ridges in Darien, and did not
+I traveled on some of the high dividing ridges in Darien, and did not
 find that progress was at all difficult, and especially noted the fact
 of the absence of tangled undergrowth and matted vines which is so
-characteristic of the Darien forests generally.</p>
+characteristic of the Darien forests generally.
 
-<p>Now a few words about the inhabitants of Panama and Darien, and in
+Now a few words about the inhabitants of Panama and Darien, and in
 referring to these I mean the native inhabitants and not the
 indiscriminate gathering of all nationalities that were attracted by
-the Panama Canal.</p>
+the Panama Canal.
 
-<p>In Central and South America, as in North America, the aboriginal
+In Central and South America, as in North America, the aboriginal
 inhabitant was the Indian. When the Spaniards first attempted to
 colonize Darien they were met and resisted by the native Indian just as
 our forefathers were in Virginia and Massachusetts, and as with us so
 in Panama and Darien the Indians have been driven back by degrees from
-the shores of both oceans until now they are found only in the far interior.</p>
+the shores of both oceans until now they are found only in the far
+interior.
 
-<p>They resemble our Indians in appearance, but are smaller. They are
+They resemble our Indians in appearance, but are smaller. They are
 averse to manual labor and live almost entirely by hunting and fishing,
 although they sometimes have small plantations of plantains, bananas,
 oranges and lemons. The Spaniards in settling in the new country
@@ -1203,16 +1202,16 @@ of negroes, who were originally imported as slaves by the early
 Spaniards, and who now constitute by far the larger portion of the
 inhabitants of Darien, being found usually in villages along the
 valleys of the larger streams. In contrast to the Colombian and Indian
-they are large in stature and make excellent laborers.</p>
+they are large in stature and make excellent laborers.
 
-<p>The principal villages in Darien, as Yovisa, Pinagana and Real de St.
+The principal villages in Darien, as Yovisa, Pinagana and Real de St.
 Marie, are inhabited exclusively by the negroes, with the exception of
 a Spanish judge in each, who exercises great authority. Besides being a
 judge in civil and criminal cases, he practically controls everything
 in his particular village, as all contracts for labor are negotiated
-with him and settlement for services made through him.</p>
+with him and settlement for services made through him.
 
-<p>Upon reaching Darien the first work assigned me was the survey and
+Upon reaching Darien the first work assigned me was the survey and
 exploration of the Pyrrhi river. This survey was made for two purposes:
 primarily, to determine if any of the country bordering upon it was of
 a sufficiently desirable character to include it within the grant, and
@@ -1225,30 +1224,31 @@ undergrowth was too thick to admit of progress along the banks.
 Sometimes the water was very shallow; at other times, where it had been
 backed up by dams of porphyritic rock, it reached above the waist, and
 near the end of the journey where the river ran between vertical walls
-of great height it was necessary to swim in order to get beyond this cañon.</p>
+of great height it was necessary to swim in order to get beyond this
+cañon.
 
-<p>The survey of this river was satisfactorily accomplished in about a
+The survey of this river was satisfactorily accomplished in about a
 week. The method adopted for the survey was to take compass bearings
 and to estimate distances. These courses and distances were plotted as
 they were taken and thus the topographical and other features could be
 readily sketched in connection with them. To check and control this
 work, observations were taken every day at noon with a sextant, on the
 sun, for latitude and time, and at night circum-meridian altitudes of
-stars were obtained when possible.</p>
+stars were obtained when possible.
 
-<p>Thus a number of rivers were surveyed&mdash;the Maria, Tucuti, Yovisa and
+Thus a number of rivers were surveyed--the Maria, Tucuti, Yovisa and
 other tributaries of the Tuyra. When it was found that a sufficiently
 correct idea of the country for topographical purposes could not be
-obtained by simply meandering the water courses, lines or <i>trochas</i>
+obtained by simply meandering the water courses, lines or _trochas_
 were cut through the forest from stream to stream, and where two
 streams thus connected were tributaries of a common river, all of which
 had been previously surveyed, a closed figure was obtained, an
 adjustment for errors of closure made, and by putting together the
 topographical data obtained by the four lines, there was generally
 found to be sufficient information to give a satisfactory though of
-course a crude delineation of the included area.</p>
+course a crude delineation of the included area.
 
-<p>After a number of rivers had been examined with more or less accuracy
+After a number of rivers had been examined with more or less accuracy
 in this way, it was finally decided that the area for one portion of
 the grant best suited for the purposes of the Canal Company lay on the
 right bank of the Tuyra river, and that the portion of the river which
@@ -1264,9 +1264,9 @@ amount of the grant, which in this particular case was 25,000 hectares.
 The problem then presented was: given three rivers for three boundaries
 of a figure to establish a fourth and artificial line, completing the
 figure in such a way that it should contain a given area, and also to
-procure data for a topographical map of the country surveyed.</p>
+procure data for a topographical map of the country surveyed.
 
-<p>This survey was put under my direction and I was instructed to proceed
+This survey was put under my direction and I was instructed to proceed
 to a point overlooking the Tuyra river, between the Rio Yape and the
 Rio Pucro, near the mouth of the Rio Capite, for the purpose of
 establishing a base camp. Leaving Real de St. Marie on the evening of
@@ -1275,9 +1275,9 @@ laborers, we reached the site for the camp in two days. After landing
 everything, the work of clearing away trees and underbrush over an area
 sufficiently large for the camp was commenced. The men worked willingly
 with axe and machéte, and soon the forest receded and left bare a
-semi-circular space facing the river.</p>
+semi-circular space facing the river.
 
-<p>Two houses were needed and without saw, nail or hammer the construction
+Two houses were needed and without saw, nail or hammer the construction
 was commenced and prosecuted rapidly. Straight trees about six inches
 in diameter and twenty feet long were cut and planted vertically in
 holes dug out with the machéte, and horizontal pieces of a smaller
@@ -1325,15 +1325,16 @@ was further decided that as time was limited it would be impracticable
 to run out the fourth side of the figure that would contain the grant,
 as the country around the headwaters of the streams was known to be
 exceedingly rough and mountainous, and to follow any straight line
-would necessarily involve a great amount of laborious cutting and climbing.</p>
+would necessarily involve a great amount of laborious cutting and
+climbing.
 
-<p>Furthermore, in order to know just what direction this line should
+Furthermore, in order to know just what direction this line should
 follow it would be first necessary to make a connected preliminary
 survey of the three rivers; to plot this survey and then by inspection
 of the map and consideration of various starting points to decide on
-the most available location of the fourth side.</p>
+the most available location of the fourth side.
 
-<p>Instead of this it was considered best and sufficient to arbitrarily
+Instead of this it was considered best and sufficient to arbitrarily
 adopt a certain waterfall on the Rio Yape, the location of which was
 approximately known from a reconnoisance previously made, as the
 initial point of the line connecting the upper Yape with the Pucro and
@@ -1346,47 +1347,39 @@ plotted, a line drawn from the position of the waterfall on the map in
 such a way as to include the desired area would intersect the Pucro at
 some point within the limit of what had been surveyed. I have not time
 to go into the details of the various trips by land and water necessary
-to carry out these plans.</p>
+to carry out these plans.
 
-<p>Before starting it was known exactly what was necessary to be done;
+Before starting it was known exactly what was necessary to be done;
 each assistant engineer had his work clearly mapped out before him, and
 each one faithfully performed the task allotted to him, so that the
 whole survey was brought to a successful completion. This brought to a
 close all the work in Darien, the other tracts having been surveyed
 before my arrival and consequently the whole expedition returned to
-Panama, and soon afterwards I returned to this country.</p>
+Panama, and soon afterwards I returned to this country.
 
-<p>In going to and returning from Darien, I passed twice over the Panama
+In going to and returning from Darien, I passed twice over the Panama
 railroad and along the line of the Panama canal, and I have thought
 that a few facts relative to the canal and railroad might prove of
-interest to the Geographical Society.</p>
+interest to the Geographical Society.
 
-<p>Published herewith is a sketch showing the location of the railroad,
-canal and tributary drainage, and a profile along the axis of the canal.</p>
+Published herewith is a sketch showing the location of the railroad,
+canal and tributary drainage, and a profile along the axis of the
+canal.
 
-<center><img src="images/3.jpg" alt="Sketch of Panama region"></center>
+[Illustration: SKETCH SHOWING LOCATION OF PANAMA RAIL ROAD, PANAMA
+CANAL AND TRIBUTARY DRAINAGE. N. Peters, Photo-Lithographer,
+Washington, D. C.]
 
-<table align="right" border="0" cellspacing="0" cellpadding="6" summary="Figure 4">
-	<tr>
-		<td width="189">
-			<img src="images/4.jpg" alt="Panama Canal profile">
-		</td>
-	</tr>
-	<tr>
-		<td width="189" align="center">
-			<small>PROFILE OF THE PANAMA CANAL.<br>Black indicates work
+[Illustration: PROFILE OF THE PANAMA CANAL. Black indicates work
 executed; stipple, work to be executed to complete a lock-canal; white,
-additional work to be executed to complete a sea-level canal.</small>
-		</td>
-	</tr>
-</table>
+additional work to be executed to complete a sea-level canal.]
 
-<p>The first surveys for the railroad were made in 1849, and it was
+The first surveys for the railroad were made in 1849, and it was
 probably the excitement of the California gold fever that brought about
 its construction at this particular time. Ground was broken in January,
-1850, and the last rail was laid in January, 1855.</p>
+1850, and the last rail was laid in January, 1855.
 
-<p>The length of the road is 47.6 miles and it crosses the dividing summit
+The length of the road is 47.6 miles and it crosses the dividing summit
 at an elevation of 263 feet above the mean level of the Atlantic ocean.
 The maximum grade is 60 feet to the mile. Soon after the road was built
 accurate levels were run to determine the difference, if any, between
@@ -1396,20 +1389,20 @@ local causes, and considerable differences of height at times, owing to
 differences of tides in the Atlantic and Pacific. At Aspinwall the
 greatest rise is only 1.6 feet, while at Panama there is at times a
 difference of over 21 feet between high and low water. The cost of the
-railroad was $75,000,000.</p>
+railroad was $75,000,000.
 
-<p>The existence of the railroad was probably the deciding cause that led
-Lesseps to the adoption of this location of the proposed canal.</p>
+The existence of the railroad was probably the deciding cause that led
+Lesseps to the adoption of this location of the proposed canal.
 
-<p>Now that the scheme has practically failed it is very easy to see and
+Now that the scheme has practically failed it is very easy to see and
 appreciate the difficulties that lay in the way of building a canal at
 this particular place; and it certainly seems that if sound engineering
 principles had been adopted at least some of these difficulties could
 have been understood and properly combatted. The whole scheme, however,
 from an engineering standpoint, seems to have been conducted in the
-most blundering manner.</p>
+most blundering manner.
 
-<p>Lesseps is a diplomat and financier, but in no sense a great engineer.
+Lesseps is a diplomat and financier, but in no sense a great engineer.
 In the construction of the Suez canal, the questions of diplomacy and
 finance were the most difficult to settle, while the engineering
 problems were comparatively simple. In Panama the opposite conditions
@@ -1420,13 +1413,13 @@ in his way, and these only seemed to occur to him when they blocked
 progress in a certain direction. The Paris Conference, controlled by
 Lesseps, decided on the 29th of May, 1879, that the construction of an
 interoceanic canal was possible and that it should be built from the
-Gulf of Limon to the Bay of Panama.</p>
+Gulf of Limon to the Bay of Panama.
 
-<p>The tide-level scheme was adopted and the following dimensions decided
+The tide-level scheme was adopted and the following dimensions decided
 upon, viz: Length, 45.5 miles; depth, 28 feet; width at water line 164
-feet, and width at bottom 72 feet.</p>
+feet, and width at bottom 72 feet.
 
-<p>The route determined upon was about the same as that of the railroad,
+The route determined upon was about the same as that of the railroad,
 that is along the valleys of the Chagres and Obispo, crossing the
 divide at the Culebra pass and then descending to the Pacific along the
 course of the Rio Grande. The profile which is reproduced from
@@ -1437,18 +1430,18 @@ in black is what has been removed along the axis of the canal and
 represents an expenditure of over $385,000,000 and seven years' labor.
 The reasons that make the scheme impracticable are briefly these, some
 of which were known before the work was commenced, and all of which
-should have been understood.</p>
+should have been understood.
 
-<p>The first great difficulty is in cutting through the ridge culminating
+The first great difficulty is in cutting through the ridge culminating
 at Culebra where the original surface was 354 feet above the bed of the
 proposed canal. It was never known what the geological formation of
 this ridge was until the different strata were laid bare by the
 workman's pick, and the slope adopted, 1½ to 1, was found to be
 insufficient in the less compact formations, even at the comparatively
 shallow depth that was reached, and many and serious landslides were of
-frequent occurrence.</p>
+frequent occurrence.
 
-<p>Another serious difficulty was the disposition of the excavated
+Another serious difficulty was the disposition of the excavated
 material, for upon the completion of a sea-level course this channel
 would naturally drain all the country hitherto tributary to the Chagres
 and Rio Grande, and any substance not removed to a great distance would
@@ -1461,21 +1454,21 @@ but during a flood the depth becomes as much as forty feet, the width
 second. The bed of the river is here 42 feet above sea level, or 70
 feet above what the bottom of canal would have been. Now add to this a
 40-foot flood and we have a water surface one hundred and ten feet
-above the bed of the canal.</p>
+above the bed of the canal.
 
-<p>In order to keep this immense volume of water from the canal it was
+In order to keep this immense volume of water from the canal it was
 proposed to build a large dam at Gamboa, and to convey the water by an
 entirely different and artificial route to the Atlantic. It is
 impossible to show on the map the whole drainage area of the Chagres,
 but a rough calculation shows it to be about 500 square miles. This
 seems a small total drainage area, but when it is considered that the
-annual rainfall is about 12 <small>FEET</small>, that this rainfall is confined to
+annual rainfall is about 12 FEET, that this rainfall is confined to
 about one half the year, and that in six consecutive hours there has
 been a precipitation of over six inches of rain, some idea of the
 amount of water that finds its way through the Chagres river during the
-wet season may be formed.</p>
+wet season may be formed.
 
-<p>As I said before it was proposed to protect the canal from the waters
+As I said before it was proposed to protect the canal from the waters
 of the upper Chagres by an immense dam at Gamboa, and for the purpose
 of controlling the water tributary to the lower Chagres two additional
 canals or channels were to be constructed on either side of the main
@@ -1492,9 +1485,9 @@ the removal of the immense amount of earth and rock necessary to
 complete the canal, that granting all this accomplished, it would be
 practically impossible to maintain a sea-level canal by reason of the
 difficulty in controlling the Chagres and preventing the canal from
-filling up.</p>
+filling up.
 
-<p>The canal company finally came to the conclusion that the sea-level
+The canal company finally came to the conclusion that the sea-level
 scheme was impracticable and it was abandoned, and plans were prepared
 for a lock system. As seen on the profile there were ten locks
 proposed, five on each side of the summit level. The summit level was
@@ -1508,24 +1501,26 @@ excavated, through a horizontal distance of 3300 feet. The width of cut
 at top surface for the required depth at a slope of 1½ to 1 would be
 750 feet, but as I said before, at this slope landslides were of
 frequent occurrence and the slope would probably have to be increased
-to at least 2 to 1.</p>
+to at least 2 to 1.
 
-<p>Granting the necessary excavations made, there would be still the
+Granting the necessary excavations made, there would be still the
 problem of the control of the Chagres river and the water supply for
 the summit level to provide for. At first it was thought that the water
 supply could be obtained from the storage of the waters of the Chagres
 and Obispo, but this idea was eventually abandoned, either from a
 belief in the insufficiency of the water supply during the dry season,
-or from difficulties in the way of conveying the water to the summit level.</p>
+or from difficulties in the way of conveying the water to the summit
+level.
 
-<p>Then it was that the advice of Mr. Eiffel, a noted French engineer, was
+Then it was that the advice of Mr. Eiffel, a noted French engineer, was
 sought, and after a visit to the Isthmus he proposed that the summit
 level should be supplied by pumping from the Pacific. A contract was
 immediately made with Eiffel, who was heralded all over the world as
 the man who would save the canal, and immediately a positive day, the
-seventh that had been announced, was fixed for the opening of the great canal.</p>
+seventh that had been announced, was fixed for the opening of the great
+canal.
 
-<p>I do not know just how much work was done towards perfecting the system
+I do not know just how much work was done towards perfecting the system
 for pumping, but probably very little was ever accomplished in this
 direction, as soon after this scheme was thought of the available funds
 of the canal company began to be very scarce, and there has been since
@@ -1534,16 +1529,16 @@ entirely suspended. From what I have said and from what can be seen
 from the profile, it will be readily understood that as far as the
 sea-level project is concerned the amount done is not much more than a
 scraping of the surface, relatively speaking, and that what has been
-done is in places where the obstacles were fewest.</p>
+done is in places where the obstacles were fewest.
 
-<p>In regard to the lock canal about one third of the necessary excavation
+In regard to the lock canal about one third of the necessary excavation
 has been made along the axis of the canal, but taking into
 consideration other requirements necessary for the completion of the
 scheme, I should estimate, roughly, that probably only one sixth of the
 whole amount of work had been accomplished. The question now naturally
-arises as to what will be the probable future of this great enterprise.</p>
+arises as to what will be the probable future of this great enterprise.
 
-<p>The French people have seen the scheme fail under Lesseps in whom they
+The French people have seen the scheme fail under Lesseps in whom they
 had the most unbounded confidence, and it is not likely that they will
 raise any more money to be put in it as a business enterprise under any
 other management. Saddled as it is with a debt of nearly four hundred
@@ -1551,101 +1546,107 @@ millions of dollars, it would be difficult to convince any one that it
 could ever prove to be a paying investment. Nor do I think that any
 American or English corporation can be organized that could obtain such
 concessions from Lesseps as would make the scheme an inviting field for
-capitalists, and thus my opinion is that the <i>"Compagnie Universelle du
-Canal Interocéanique de Panama"</i> has irretrievably collapsed, and that
-the canal will remain, as it is now, the most gigantic failure of the age.</p>
-<br>
-<br><a name="chap4"></a>
-<br>
-<br>
-<h3>ACROSS NICARAGUA WITH TRANSIT AND MACHÉTE.</h3>
-<center>B<small>Y</small> R. E. P<small>EARY</small>.</center>
-<br>
+capitalists, and thus my opinion is that the _"Compagnie Universelle du
+Canal Interocéanique de Panama"_ has irretrievably collapsed, and that
+the canal will remain, as it is now, the most gigantic failure of the
+age.
 
-<p>The action of this National Society, with its array of distinguished
+
+
+
+ACROSS NICARAGUA WITH TRANSIT AND MACHÉTE.
+
+BY R. E. PEARY.
+
+
+The action of this National Society, with its array of distinguished
 members, in turning its attention for an hour to a region which has
 interested the thinking world for more than three centuries gives me
-peculiar pleasure and satisfaction.</p>
+peculiar pleasure and satisfaction.
 
-<p>I propose this evening to touch lightly and briefly upon the natural
+I propose this evening to touch lightly and briefly upon the natural
 features of Nicaragua, to note the reasons for the interest which has
 always centered upon her, to trace the growth of the great project with
 which her name is inseparably linked; to show you somewhat in detail,
 the life, work, and surroundings of an engineer within her borders; and
 finally to show you the result that is to crown the engineer's work in
-her wide spreading forests and fertile valleys.</p>
+her wide spreading forests and fertile valleys.
 
-<p>That portion of Central America now included within the boundaries of
+That portion of Central America now included within the boundaries of
 our sister republic Nicaragua, has almost from the moment that European
 eyes looked upon it attracted and charmed the attention of explorers,
 geographers, great rulers, students, and men of sagacious and far
-reaching intellect.</p>
+reaching intellect.
 
-<p>From Gomara the long list of famous names which have linked themselves
+From Gomara the long list of famous names which have linked themselves
 with Nicaragua reaches down through Humboldt, Napoleon III., Ammen,
-Lull, Menocal and Taylor.</p>
+Lull, Menocal and Taylor.
 
-<p>The shores were first seen by Europeans in 1502, when Columbus in his
+The shores were first seen by Europeans in 1502, when Columbus in his
 fourth voyage rounded the cape which forms the northeast angle of the
 state, and called it "Gracias á Dios," which name it bears to-day.
-Columbus then coasted southward along the eastern shore.</p>
+Columbus then coasted southward along the eastern shore.
 
-<p>In 1522, Avila, penetrated from the Pacific coast of the country to the
+In 1522, Avila, penetrated from the Pacific coast of the country to the
 lakes and the cities of the Indian inhabitants. Previous to this the
 country was occupied by a numerous population of Aztecs, or nearly
 allied people, as the quantities of specimens of pottery, gold images,
 and other articles found upon the islands and along the shores of the
-lakes, prove conclusively.</p>
+lakes, prove conclusively.
 
-<p>In 1529 the connection of the lakes with the Caribbean sea was
+In 1529 the connection of the lakes with the Caribbean sea was
 discovered, and during the last half of the eighteenth century a
 considerable commerce was carried on by this route between Granada on
-Lake Nicaragua and the cities of Nombre de Dios, Cartagena, Havana and Cadiz.</p>
+Lake Nicaragua and the cities of Nombre de Dios, Cartagena, Havana and
+Cadiz.
 
-<p>In 1821 Nicaragua threw off the rule of the mother country and in 1823
+In 1821 Nicaragua threw off the rule of the mother country and in 1823
 formed with her sister Spanish colonies, a confederation. This
 confederation was dissolved in 1838, and since then Nicaragua has
 conducted her own affairs. In point of advancement, financial solidity
 and stability of government she stands to-day nearly, if not quite, at
-the head of the Central American republics.</p>
+the head of the Central American republics.
 
-<p>Nicaragua extends over a little more than four degrees each of latitude
-and longitude, from about N. 11° to N. 15° and from 83° 20' W. to 87° 40' W.</p>
+Nicaragua extends over a little more than four degrees each of latitude
+and longitude, from about N. 11° to N. 15° and from 83° 20' W. to 87°
+40' W.
 
-<p>Its longest side is the northern border from the Gulf of Fonseca
+Its longest side is the northern border from the Gulf of Fonseca
 northeasterly to Cape Gracias á Dios, two hundred and ninety miles.
 From that cape south to the mouth of the Rio San Juan, the Caribbean
 coast line, is two hundred and fifty miles. Nearly due west across the
 Isthmus to Salinas Bay on the Pacific, is one hundred and twenty miles.
-The Pacific coast line extends thence northwest one hundred and sixty miles.</p>
+The Pacific coast line extends thence northwest one hundred and sixty
+miles.
 
-<p>In point of size Nicaragua stands first among the Central American
+In point of size Nicaragua stands first among the Central American
 republics having an area of 51,600 square miles. It is larger than
 either the State of New York or Pennsylvania, about the size of
 Denmark, Belgium, the Netherlands and Switzerland combined, and is
 one-fourth as large as France or Germany. Its population numbers about
-300,000.</p>
+300,000.
 
-<p>The Gulf of Fonseca, at the northern, and Salinas Bay at the southern
+The Gulf of Fonseca, at the northern, and Salinas Bay at the southern
 extremity of the coast line are two of the finest and largest harbors
 on the Pacific coast of Central America. About midway between them is
 the fine harbor of Corinto, and there are also several other ports
 along the coast, at San Juan del Sur, Brito and Tamarindito. On the
 Caribbean coast no harbors suitable for large vessels exist, but
-numerous lagoons and bights afford the best of shelter for coasting vessels.</p>
+numerous lagoons and bights afford the best of shelter for coasting
+vessels.
 
-<p>The central portion of Nicaragua is traversed, from north to south, by
-the main <i>cordillera</i> of the isthmus, which, here greatly reduced in
+The central portion of Nicaragua is traversed, from north to south, by
+the main _cordillera_ of the isthmus, which, here greatly reduced in
 altitude, consists merely of a confused mass of peaks and ridges with
-an average elevation scarcely exceeding 1,000 feet.</p>
+an average elevation scarcely exceeding 1,000 feet.
 
-<p>Between this mountainous region and the Caribbean shore stretches a low
+Between this mountainous region and the Caribbean shore stretches a low
 level country, covered with a dense forest, rich in rubber, cedar,
 mahogany and dye woods. It is drained by several large rivers whose
 fertile intervales will yield almost incredible harvests of plantains,
-bananas, oranges, limes, and other tropical fruits.</p>
+bananas, oranges, limes, and other tropical fruits.
 
-<p>West of the mountain zone is a broad valley, about one hundred and
+West of the mountain zone is a broad valley, about one hundred and
 twenty-five feet above the level of the sea, extending from the Gulf of
 Fonseca, southeasterly to the frontier of Costa Rica. The greater
 portion of this valley is occupied by two lakes, Managua and Nicaragua.
@@ -1654,39 +1655,23 @@ is really an inland sea, being one-half as large as Lake Ontario and
 twice as large as Long Island Sound. These lakes, with the rainfall of
 the adjacent valleys, drain through the noble San Juan river, which
 discharges into the Caribbean at Greytown, at the southeast angle of
-the country.</p>
+the country.
 
-<p>Between the Pacific and these lakes is a narrow strip of land, from
+Between the Pacific and these lakes is a narrow strip of land, from
 twelve to thirty miles in width, stretching from the magnificent plain
 of Leon with its cathedral city, in the north, to the rolling indigo
 fields and the cacao plantations which surround the garden city of
-Rivas, in the south.</p>
+Rivas, in the south.
 
-<table align="center" border="0" cellspacing="0" cellpadding="6" summary="Figure 5">
-	<tr>
-		<td width="699">
-			<img src="images/5.jpg" alt="Leon cathedral">
-		</td>
-	</tr>
-	<tr>
-		<td width="699" align="right">
-			<small><i>Julius Bien &amp; Co.</i></small>
-		</td>
-	</tr>
-	<tr>
-		<td width="699" align="center">
-			LEON CATHEDRAL
-		</td>
-	</tr>
-</table>
+[Illustration: LEON CATHEDRAL. _Julius Bien & Co._]
 
-<p>The lowest pass across the backbone of the New World, from Behring's
+The lowest pass across the backbone of the New World, from Behring's
 Strait to the Straits of Magellan, extends along the San Juan valley
-and across the Lajas&mdash;Rio Grande "divide," between Lake Nicaragua and
+and across the Lajas--Rio Grande "divide," between Lake Nicaragua and
 the Pacific; the summit of this divide is only one hundred and
-fifty-two feet above the sea and forty-two feet above the lake.</p>
+fifty-two feet above the sea and forty-two feet above the lake.
 
-<p>Nicaragua presents yet another unique physical feature. Lying between
+Nicaragua presents yet another unique physical feature. Lying between
 the elevated mountain masses of Costa Rica on the south and Honduras on
 the north, the average elevation of its own mountain backbone hardly
 one thousand feet, it is the natural thoroughfare of the beneficent
@@ -1694,52 +1679,53 @@ northeast Trades. These winds sweep in from the Caribbean across the
 Atlantic slopes, break the surface of the lakes into sparkling waves,
 and then disappear over the Pacific, aerating, cooling and purifying
 the country, destroying the germs of disease and making Nicaragua the
-healthiest region in Central America.</p>
+healthiest region in Central America.
 
-<p>The scenery of the eastern portion of the country is of the luxuriant
-sameness peculiar to all tropical countries.</p>
+The scenery of the eastern portion of the country is of the luxuriant
+sameness peculiar to all tropical countries.
 
-<p>In the vicinity of the lakes and between them and the Pacific, the
+In the vicinity of the lakes and between them and the Pacific, the
 isolated mountain peaks which bound the plain of Leon on the northeast;
 the mountain islands of Madera and Ometepe; the towering turquoise
 masses of the Costa Rican volcanoes; and the distant blue mountains of
 Segovia and Matagalpa, visible beyond the sparkling waters of the
 lakes, feast the eye with scenic beauties, unsurpassed elsewhere in
-grandeur, variety and richness of coloring.</p>
+grandeur, variety and richness of coloring.
 
-<p>The products of the country are numerous despite the fact that its
-resources are as yet almost entirely undeveloped.</p>
+The products of the country are numerous despite the fact that its
+resources are as yet almost entirely undeveloped.
 
-<p>Maize, plantains, bananas, oranges, limes, and indeed every tropical
+Maize, plantains, bananas, oranges, limes, and indeed every tropical
 fruit, thrive in abundance. Coffee is grown in large quantities in the
 hilly region in the northwest; sugar, tobacco, cotton, rice, indigo and
 cacao plantations abound between the lakes and the Pacific; potatoes
 and wheat thrive in the uplands of Segovia; the Chontales region east
 of Lake Nicaragua, a great grazing section, supports thousands of head
 of cattle; and back of this are the gold and silver districts of La
-Libertad, Javali and others.</p>
+Libertad, Javali and others.
 
-<p>Numerous trees and plants of medicinal and commercial value are found
+Numerous trees and plants of medicinal and commercial value are found
 in the forests. Game is plentiful and of numerous varieties; deer, wild
 hog, wild turkey, manatee and tapir; and fish abound in the streams and
 rivers. The temperature of Nicaragua is equable. The extreme variation,
 recorded by Childs, was 23° observed near the head of the San Juan in
-May, 1851.</p>
+May, 1851.
 
-<p>The southeast wind predominates during the rainy season. Occasionally,
+The southeast wind predominates during the rainy season. Occasionally,
 in June or October as a rule, the wind hauls round to southwest and a
-<i>temporal</i> results, heavy rain sometimes falling for a week or ten days.</p>
+_temporal_ results, heavy rain sometimes falling for a week or ten
+days.
 
-<p>The equatorial cloud-belt, following the sun north in the spring, is
+The equatorial cloud-belt, following the sun north in the spring, is
 late reaching Nicaragua, and the wet season is shorter than in regions
 farther south. The average rainfall, based on the records of nine
 years, is 64.42 inches. The "trades" blow almost throughout the year.
 Strong during the dry season and freshening during the day; the wind
 comes from the east-northeast, and blows usually for four to five days,
 when, hauling to the east or southeast for a day or two, it calms down,
-then goes back to northeast and rises again.</p>
+then goes back to northeast and rises again.
 
-<p>The Spanish discoverers of the great Lake Nicaragua, coming upon it
+The Spanish discoverers of the great Lake Nicaragua, coming upon it
 from the Pacific, and noting the fluctuations of level caused by the
 action of the wind upon its broad surface, mistook these fluctuations
 for tides and felt assured that some broad strait connected it with the
@@ -1748,36 +1734,20 @@ the lake, and the restless searching of other explorers in every bay
 and inlet along both sides of the American isthmus had extinguished
 forever the ignis fatuus "Secret of the Strait," Gomara pointed this
 out as one of the most favorable localities for an artificial
-communication between the North and South Seas.</p>
+communication between the North and South Seas.
 
-<table align="center" border="0" cellspacing="0" cellpadding="6" summary="Figure 6">
-	<tr>
-		<td width="561">
-			<img src="images/6.jpg" alt="The Nicaragua Canal">
-		</td>
-	</tr>
-	<tr>
-		<td width="561" align="right">
-			<small><i>Julius Bien &amp; Co.</i></small>
-		</td>
-	</tr>
-	<tr>
-		<td width="561" align="center">
-			THE NICARAGUA CANAL
-		</td>
-	</tr>
-</table>
+[Illustration: THE NICARAGUA CANAL. _Julius Bien & Co._]
 
-<p>It was not until 1851, however, that an accurate and scientific survey
-of a ship canal route was made by Col. O. W. Childs.</p>
+It was not until 1851, however, that an accurate and scientific survey
+of a ship canal route was made by Col. O. W. Childs.
 
-<p>This survey which showed the lake of Nicaragua to be only one hundred
+This survey which showed the lake of Nicaragua to be only one hundred
 and seven feet above the sea, and the maximum elevation between the
 lake and the Pacific to be only forty-one feet, exhibited the
 advantages of this route so clearly and in such an unanswerable manner
-that it has never since been possible to ignore it.</p>
+that it has never since been possible to ignore it.
 
-<p>In 1870, under the administration of General Grant and largely through
+In 1870, under the administration of General Grant and largely through
 the unceasing efforts of Admiral Ammen, the United States began a
 series of systematic surveys of all the routes across the American
 isthmus from Tehuantepec to the head waters of the Rio Atrato; and six
@@ -1785,137 +1755,139 @@ years later, with the plans and results of all these surveys before it,
 a commission composed of General Humphreys, Chief of Engineers, U. S.
 Army; Hon. Carlile Patterson, Superintendent U. S. Coast Survey; and
 Rear-Admiral Daniel Ammen, Chief of Bureau of Navigation, U. S. Navy;
-gave its verdict in favor of the Nicaragua route.</p>
+gave its verdict in favor of the Nicaragua route.
 
-<p>The International Canal Congress at Paris, in 1879, had such convincing
+The International Canal Congress at Paris, in 1879, had such convincing
 information placed before it that it was forced, in spite of its
 prejudices, to admit that in the advantages it offered for the
 construction of a lock canal, the Nicaragua route was superior to any
-other across the American isthmus.</p>
+other across the American isthmus.
 
-<p>In 1876, and again in 1880 Civil Engineer A. G. Menocal, U. S. N., the
+In 1876, and again in 1880 Civil Engineer A. G. Menocal, U. S. N., the
 chief engineer of previous governmental surveys, resurveyed and revised
 portions of the route, and in 1885 the same engineer, assisted by
 myself, surveyed an entirely new line on the Caribbean side, from
-Greytown to the San Juan river, near the mouth of the San Carlos.</p>
+Greytown to the San Juan river, near the mouth of the San Carlos.
 
-<p>On the eastern side of Nicaragua, all these surveys (except the last),
+On the eastern side of Nicaragua, all these surveys (except the last),
 were confined almost entirely to the San Juan river, and its immediate
 banks; and the country on either side beyond these narrow limits was,
 up to 1885, almost entirely unknown. Between Lake Nicaragua and the
 Pacific, however, every pass from the Bay of Salinas to the Gulf of
-Fonseca had been examined.</p>
+Fonseca had been examined.
 
-<p>In 1885 the party of which I was a member pushed a nearly direct line
+In 1885 the party of which I was a member pushed a nearly direct line
 across the country from a point on the San Juan, about three miles
 below the mouth of the Rio San Carlos, to Greytown, a distance of
 thirty-one miles by our line, as compared with fifty-six miles by the
-river and forty-two miles by the former proposed canal route.</p>
+river and forty-two miles by the former proposed canal route.
 
-<p>In December, 1887, I went out in charge of a final surveying
+In December, 1887, I went out in charge of a final surveying
 expedition, consisting of some forty engineers and assistants and one
 hundred and fifty laborers, to resurvey and stake out the line of the
-canal preparatory to the work of construction.</p>
+canal preparatory to the work of construction.
 
-<p>The information and personal experience gained in previous surveys made
+The information and personal experience gained in previous surveys made
 it possible, without loss of time, to locate the various sections of
 the expedition in the most advantageous manner, and push the work with
-the greatest speed consistent with accuracy.</p>
+the greatest speed consistent with accuracy.
 
-<p>The location lines of the previous surveys were taken as a preliminary
+The location lines of the previous surveys were taken as a preliminary
 line and carefully re-measured and re-levelled. Preliminary offsets
 were run; the location made, and staked off upon the ground; offsets
 run in from three hundred to one hundred feet apart, extending beyond
 the slope limits of the canal; borings made at frequent intervals; and
-all streams gauged.</p>
+all streams gauged.
 
-<p>The result of this work was a series of detail charts and profiles,
+The result of this work was a series of detail charts and profiles,
 based upon rigidly checked instrumental data, and covering the entire
-line from Greytown to Brito, from which to estimate quantities and cost.</p>
+line from Greytown to Brito, from which to estimate quantities and
+cost.
 
-<p>As may be imagined by those familiar with tropical countries, the
+As may be imagined by those familiar with tropical countries, the
 prosecution of a survey in these regions is an arduous and difficult
 work, and one demanding special qualifications in the engineer. His
 days are filled with a succession of surprises, usually disagreeable,
 and constant happenings of the unexpected. Probably in no other country
 will the traveler, explorer, or engineer, find such an endless variety
-of obstacles to his progress.</p>
+of obstacles to his progress.
 
-<p>Every topographical feature of the country is shrouded and hidden under
+Every topographical feature of the country is shrouded and hidden under
 a tropical growth of huge trees and tangled underbrush, so dense that
 it is impossible for even a strong, active man, burdened with nothing
 but a rifle, to force himself through it without a short, heavy sword
-or <i>machéte</i>, with which to cut his way.</p>
+or _machéte_, with which to cut his way.
 
-<p>Under these circumstances the most observant engineer and expert
+Under these circumstances the most observant engineer and expert
 woodsman may pass within a hundred feet of the base of a considerable
 hill and not have a suspicion of its existence, or he may be entirely
 unaware of the proximity of a stream until he is on the point of
-stepping over the edge of its precipitous banks.</p>
+stepping over the edge of its precipitous banks.
 
-<p>The topography of the country has to be laboriously felt out, much as a
+The topography of the country has to be laboriously felt out, much as a
 blind man familiarizes himself with his surroundings. In doing this
 work the indispensable instrument, without which the transit, the
 level, and indeed the engineer himself is of no use, is the national
-weapon of Nicaragua, the <i>machéte</i>, a short, heavy sword.</p>
+weapon of Nicaragua, the _machéte_, a short, heavy sword.
 
-<p>As soon as he is able to walk, the son of the Nicaraguan <i>mozo</i> or
-<i>huléro</i> takes as a plaything a piece of iron hoop or an old knife, and
-imitates his father with his <i>machéte</i>. As he gets older a broken or
+As soon as he is able to walk, the son of the Nicaraguan _mozo_ or
+_huléro_ takes as a plaything a piece of iron hoop or an old knife, and
+imitates his father with his _machéte_. As he gets older a broken or
 worn-down weapon is given him, and when he is able to handle it, a full
-size <i>machéte</i> is entrusted to him and he then considers himself a man.
-From that day on, waking or sleeping, our Nicaraguan's <i>machéte</i> is
+size _machéte_ is entrusted to him and he then considers himself a man.
+From that day on, waking or sleeping, our Nicaraguan's _machéte_ is
 always at his side. With it he cuts his way through the woods; with it
 he builds his camp and his bed; with it he kills his game and fish;
 with it at a pinch he shaves himself, or extracts the thorns from his
 feet; with it he fights his duels, and with it, when he dies, his
-comrades dig his grave.</p>
+comrades dig his grave.
 
-<p>When in the field the chief of a party, equipped with a pocket compass
+When in the field the chief of a party, equipped with a pocket compass
 and an aneroid barometer, is always skirmishing ahead of the line with
-a <i>machétero</i>, or axeman, to cut a path for him. A pushing chief,
-however, speedily dispenses with the <i>machétero</i> and slashes a way for
-himself much more rapidly.</p>
+a _machétero_, or axeman, to cut a path for him. A pushing chief,
+however, speedily dispenses with the _machétero_ and slashes a way for
+himself much more rapidly.
 
-<p>As soon as he decides where the line is to go the engineer calls to the
-<i>machéteros</i> and the two best ones immediately begin cutting toward the
+As soon as he decides where the line is to go the engineer calls to the
+_machéteros_ and the two best ones immediately begin cutting toward the
 sound of his voice. They soon slash a narrow path to him, drive a stake
-where he was standing and then turn back toward the other <i>machéteros</i>,
+where he was standing and then turn back toward the other _machéteros_,
 who have been following them, cutting a wider path and clearing away
 all trees, vines and branches, so that the transit man can see the flag
-at the stake. The moment the leading <i>machéteros</i> reach him the chief
+at the stake. The moment the leading _machéteros_ reach him the chief
 starts off again and by the time the main body of axemen have reached
-his former position the head <i>machéteros</i> are cutting toward the sound
-of his voice in a new position.</p>
+his former position the head _machéteros_ are cutting toward the sound
+of his voice in a new position.
 
-<p>As soon as the line is cleared the transit man takes his sight and
+As soon as the line is cleared the transit man takes his sight and
 moves ahead to the stake, the chainmen follow and drive stakes every
 hundred feet, and the leveller follows putting in elevations and cross
 sections. In this way the work goes on from early morning until nearly
-dark, stopping about an hour for lunch.</p>
+dark, stopping about an hour for lunch.
 
-<p>After the day's work comes the dinner, the table graced with wild hog,
+After the day's work comes the dinner, the table graced with wild hog,
 or turkey, or venison, or all. After dinner the smoke, then the day's
 notes are worked up and duplicated and all hands get into their nets.
 For a moment the countless nocturnal noises of the great forest,
 enlivened perhaps by the scream of a tiger, or the deep, muffled roar
 of a puma, fall upon drowsy ears, then follows the sleep that always
 accompanies hard work and good health, till the bull-voiced howling
-monkeys set the forest echoing with their announcement of the breaking dawn.</p>
+monkeys set the forest echoing with their announcement of the breaking
+dawn.
 
-<p>In reconnoissance and preliminary work the experienced engineer, is
+In reconnoissance and preliminary work the experienced engineer, is
 able, in many cases, to avoid obstacles without vitiating the results
 of his work, but in the final location, in staking out absolute curves
 and driving tangents thousands of feet long across country, no dodging
-is possible.</p>
+is possible.
 
-<p>On the hills and elevated ground the engineer can, comparatively
+On the hills and elevated ground the engineer can, comparatively
 speaking, get along quite comfortably, his principal annoyances being
 the uneven character of the ground, which compels him to set his
 instrument very frequently, and the necessity of felling some gigantic
-tree every now and then.</p>
+tree every now and then.
 
-<p>In the valleys and lowlands there is an unceasing round of obstacles.
+In the valleys and lowlands there is an unceasing round of obstacles.
 The line may run for some distance over level ground covered with a
 comparatively open growth, then without warning it encounters the wreck
 of a fallen tree, and hours are consumed hewing a passage through the
@@ -1925,23 +1897,24 @@ the line may cross and recross four or five times in the next thousand
 feet. The engineer must either climb down the steep banks, for the
 streams burrow deep in the stiff clay of these valleys, ford the stream
 and climb the opposite bank, or he must fall a tree from bank to bank
-and cross on its slippery trunk twenty or twenty-five feet above the water.</p>
+and cross on its slippery trunk twenty or twenty-five feet above the
+water.
 
-<p>Either on the immediate bank or in its vicinity is almost certain to be
-encountered a <i>"saccate"</i> clearing. This may be only one or two hundred
+Either on the immediate bank or in its vicinity is almost certain to be
+encountered a _"saccate"_ clearing. This may be only one or two hundred
 feet across or it may be a half a mile. In the former case the
-<i>"saccate"</i> grass will be ten or fifteen feet in height and so matted
+_"saccate"_ grass will be ten or fifteen feet in height and so matted
 and interwoven with vines and briars that a tunnel may be cut through
 it as through a hedge. If the clearing be large, the tough, wiry grass
 is no higher than a man's head, and a path has to be mowed through it,
 while the sun beats down into the furnace-like enclosure till the blade
-of the <i>machéte</i> becomes almost too hot to touch.</p>
+of the _machéte_ becomes almost too hot to touch.
 
-<p>But worse than anything thus far mentioned are the <i>Silico</i> or black
+But worse than anything thus far mentioned are the _Silico_ or black
 palm swamps. Some of these in the larger valleys and near the coast are
-miles in extent.</p>
+miles in extent.
 
-<p>Occupied exclusively by the low, thick <i>Silico</i> palms, these swamps are
+Occupied exclusively by the low, thick _Silico_ palms, these swamps are
 in the wet season absolutely impassable except for monkeys and
 alligators, and even at the end of the dry season the engineer enters
 upon one with sinking heart as well as feet, and emerges from it tired
@@ -1949,21 +1922,22 @@ and used up in every portion of his anatomy. It is with the utmost
 difficulty that he finds a practicable place to locate his instrument,
 generally utilizing the little hummocks formed by the trunks of the
 clusters of palms, and in moving from point to point he is compelled to
-wade from knee to shoulder deep in the black mud and water.</p>
+wade from knee to shoulder deep in the black mud and water.
 
-<p>General reconnaissances from high trees in elevated localities, simple
+General reconnaissances from high trees in elevated localities, simple
 enough in theory, are by no means easy in a country so miserly with its
 secrets as this, nor are their results reliable without a great
-expenditure of time, labor, and patience.</p>
+expenditure of time, labor, and patience.
 
-<p>On level, undulating and moderately broken ground, the tops of the
+On level, undulating and moderately broken ground, the tops of the
 trees, though they may be one hundred and fifty feet from the ground,
 are level as the top of a hedge. Even an isolated hill if it be rounded
 in shape presents hardly better facilities, the trees at the base and
 on the sides, in their effort to reach the sunlight grow taller than
-those on the summit, and there is no one tree that commands all the others.</p>
+those on the summit, and there is no one tree that commands all the
+others.
 
-<p>If however an isolated hill of several hundred feet in height be found,
+If however an isolated hill of several hundred feet in height be found,
 its steep sides culminating in a sharp peak, one day's work by three or
 four good axmen, in cutting neighboring trees, will prepare the way for
 a study of the general relief and topography of the adjacent country.
@@ -1978,32 +1952,32 @@ outlines except the more prominent irregularities of the terrene, and
 have blended different mountain ranges, one of which may be several
 miles beyond the other, into one, of which only the sky profile is
 distinct. Naturally under these conditions estimates of distance may be
-half or double the truth.</p>
+half or double the truth.
 
-<p>There are two ways of extracting reliable information from these
+There are two ways of extracting reliable information from these
 tree-top reconnaissances. If it be in the rainy season the observer
 must be prepared to make a day of it, and when he ascends the tree in
 the morning he takes with him a long light line with which to pull up
-his coffee and lunch.</p>
+his coffee and lunch.
 
-<p>Then aided by the successive showers which sweep across the landscape,
+Then aided by the successive showers which sweep across the landscape,
 leaving fragments of mists in the ravines, and hanging grey screens
 between the different ranges and mountains, bringing out the relief
 first of this and then of that section, an accurate sketch may
 gradually be made. The time of passage of a shower from one peak to
 another, or to the observer, may also be utilized as a by no means to
-be despised check upon distance estimates.</p>
+be despised check upon distance estimates.
 
-<p>If it be the dry season, the observer may take his choice between
+If it be the dry season, the observer may take his choice between
 remaining on his perch in the tree from before sunrise to after sunset,
 or making two ascents, one early in the morning and the other late in
 the afternoon. In this case the slowly dispersing clouds of morning,
 and the gradually gathering mists at sunset, together with the reversed
 lights and shadows at dawn and sunset, bring out very clearly the
 relief of the terrene, the overlapping of distant ranges, and the
-course of the larger streams.</p>
+course of the larger streams.
 
-<p>This kind of work cannot be delegated to anyone, and besides the
+This kind of work cannot be delegated to anyone, and besides the
 arduous labor involved in climbing the huge trees, there are other
 serious annoyances connected with it. The climber is almost certain to
 disturb some venomous insect which revenges itself by a savage sting
@@ -2017,70 +1991,70 @@ compensation have his nostrils filled with the perfume of some
 brilliant orchid on a neighboring branch; and there is a breezy
 enjoyment in watching the showers as they rush across the green carpet,
 and in listening to the roar with which the big drops beat upon the
-tree tops.</p>
+tree tops.
 
-<p>The special phase of field work which fell to my personal lot was
+The special phase of field work which fell to my personal lot was
 entirely reconnaissance, consisting of canoe examinations of all
 streams in the vicinity of the line of the canal, to determine their
 sources, character of valley, and approximate water shed; of rapid
 air-line compass and aneroid trails, to connect one stream, or valley
 head with another, or furnish a base line for a general sketch plan of
 a valley; and of studies of the larger features of the terrene, from
-elevated tree tops.</p>
+elevated tree tops.
 
-<p>The last has been already described; in the second the experience was
+The last has been already described; in the second the experience was
 very similar to that of the parties in running main lines. On these
-occasions three or at most four hardy <i>huléros</i> (rubber hunters)
+occasions three or at most four hardy _huléros_ (rubber hunters)
 comprised the party, two carrying the blankets, mosquito bars and
 provisions for several days, and one or two cutting the lightest
-possible practicable trail and marking prominent trees.</p>
+possible practicable trail and marking prominent trees.
 
-<p>In a day's march of from five to eight miles, and this was the utmost
+In a day's march of from five to eight miles, and this was the utmost
 that even such a light, active and experienced party could cover in one
 day, every possible and some almost impossible kinds of traveling was
 encountered, and thoroughly exhausted men crept into their bars every
-night.</p>
+night.
 
-<p>The canoe reconnaissances were more agreeable, though some most
-unpleasant as well as most enjoyable memories are connected with them.</p>
+The canoe reconnaissances were more agreeable, though some most
+unpleasant as well as most enjoyable memories are connected with them.
 
-<p>The innumerable large fallen trees which obstruct the streams and over
+The innumerable large fallen trees which obstruct the streams and over
 or through which the canoe must be hauled bodily, the almost inevitable
 capsizing of the canoe, the monotonous red clay banks on either side
 and the frequent necessity of lying down at night in a bed of mud into
 which the droves of wild pigs which inhabit these valleys have trampled
-the clayey soil, are among the disagreeable incidents.</p>
+the clayey soil, are among the disagreeable incidents.
 
-<p>From the head of canoe navigation to their sources the character of
+From the head of canoe navigation to their sources the character of
 these streams is entirely different, and both in 1888 and in 1885 I
 have followed them far up into mountain gorges, the beauty of which is
-as fresh in my memory as if I had been there but yesterday.</p>
+as fresh in my memory as if I had been there but yesterday.
 
-<p>The crew of the canoe on these reconnaissances usually consisted of
+The crew of the canoe on these reconnaissances usually consisted of
 three picked men, and when the canoe had been pushed as far up stream
 as it was possible for it to go, two of the men were left with it while
 the third and best, slinging the blankets, bars, and a little coffee,
 sugar, and milk, upon his back pushed on with me. Wading through the
 shallow water up the bed of the stream, taking bearings and estimating
-distances, while my <i>huléro</i> followed, ever alert to strike some drowsy
+distances, while my _huléro_ followed, ever alert to strike some drowsy
 beauty of a fish in the clear water; the source of the stream was
 generally reached in a day, and never did we make preparations to sleep
 on some bed of clean, yellow sand washed down by the stream in flood
 times, but what I had a plump turkey hanging from my belt, and my
-<i>huléro</i> several fine fish.</p>
+_huléro_ several fine fish.
 
-<p>Much has been written about the climate of Nicaragua and its effect
-upon the inhabitants of more northerly countries when exposed to it.</p>
+Much has been written about the climate of Nicaragua and its effect
+upon the inhabitants of more northerly countries when exposed to it.
 
-<p>It would seem that the experience of the numerous expeditions sent out
+It would seem that the experience of the numerous expeditions sent out
 by the United States, and the reports of the surgeons attached to those
 expeditions would have long since settled the matter. To those who
 cannot understand how there can be such a difference in climate between
 two localities so slightly removed as Panama and Nicaragua, and the
 former possessing a notoriously deadly climate, the experience of the
-recent surveying expedition must be conclusive.</p>
+recent surveying expedition must be conclusive.
 
-<p>Only five members of that expedition had ever been in tropical climates
+Only five members of that expedition had ever been in tropical climates
 before, and the rodmen and chainmen of the party were young men just
 out of college who had never done a day's manual labor, nor slept on
 the ground a night in their lives. Arriving at Greytown during the
@@ -2089,9 +2063,9 @@ of their supplies and camp equipage to the sites of the various camps.
 This had to be done by means of canoes along streams obstructed with
 logs and fallen trees. Some parties were a week in reaching their
 destination, wading and swimming by day, lifting and pushing their
-canoes along, and at night lying down on the ground to sleep.</p>
+canoes along, and at night lying down on the ground to sleep.
 
-<p>One party worked for six months in the swamps and lagoon region
+One party worked for six months in the swamps and lagoon region
 directly back of Greytown, and several other parties worked for an
 equal length of time in the equally disagreeable swamps of the valley
 of the San Francisco. Several of these officers are down there yet, as
@@ -2099,14 +2073,14 @@ fresh as ever. In making tours of inspection of the different sections
 I have repeatedly, for several days and nights in succession, passed
 the days traveling in the woods through swamps and rain, and the nights
 sleeping as best I could, curled up under a blanket in a small canoe,
-while my men paddled from one camp to the next.</p>
+while my men paddled from one camp to the next.
 
-<p>In spite of all this exposure not only were there no deaths in the
+In spite of all this exposure not only were there no deaths in the
 expedition but there was not a single case of serious illness, and the
 officers who have returned up to this time, were in better health and
-weight than when they went away.</p>
+weight than when they went away.
 
-<p>Of course the men had the best of food that money could obtain and
+Of course the men had the best of food that money could obtain and
 previous experience suggest, and the chiefs of all parties were
 required to strictly enforce certain sanitary regulations in regard to
 coffee in the morning, a thorough bath and dose of spirits on returning
@@ -2114,26 +2088,27 @@ from work, and mosquito bars and dry sleeping suits at night; yet the
 climate must be held principally responsible for a sanitary result
 which I believe could not be excelled in any temperate zone city, with
 the same number of men, doing the same arduous work under conditions of
-equal exposure.</p>
+equal exposure.
 
-<p>The forests everywhere abound in game and every party which included in
+The forests everywhere abound in game and every party which included in
 its personnel a good rifle-shot was sure of a constant supply of wild
 pig, turkey, quail and grouse, varied by an occasional deer, all
 obtained in the ordinary work of reconnoissance and surveying. For the
-men's table there was abundance of monkey, iguana and macaw.</p>
+men's table there was abundance of monkey, iguana and macaw.
 
-<p>Parties in the lower valleys of the various streams had no trouble in
+Parties in the lower valleys of the various streams had no trouble in
 adding two or three varieties of very toothsome fish to their bill of
 fare, though these fish were rarely caught with the hook, but usually
 shot, or knifed by an alert native, as they basked in the shallows.
-These parties also obtained occasionally a <i>danta</i> (tapir) or a manatee.</p>
+These parties also obtained occasionally a _danta_ (tapir) or a
+manatee.
 
-<p>On the river it was possible to obtain a fine string of fish with hook
+On the river it was possible to obtain a fine string of fish with hook
 and line, then there was the huge tarpon to be had for the spearing,
 and fish pots sunk in suitable places were sure to yield a mess of
-fresh water lobsters. Ducks were also occasionally shot.</p>
+fresh water lobsters. Ducks were also occasionally shot.
 
-<p>The forms of life are even more numerous in the vegetable than in the
+The forms of life are even more numerous in the vegetable than in the
 animal kingdom. The effect of these wonderful forests is indescribable,
 and though many writers have essayed a description, I have yet to see
 one that does the subject justice. Only a simple enumeration of
@@ -2146,9 +2121,9 @@ for a hundred feet or more without a branch offer a wonderful variety
 of studies in types of column. Some rise straight and smooth, and true,
 others send out thin deep buttresses, and others look like the
 muscle-knotted fore-arm of a Titan, with gnarled fingers griping the
-ground in their wide grasp.</p>
+ground in their wide grasp.
 
-<p>But whatever the form of the tree trunks may be, the shallow soil upon
+But whatever the form of the tree trunks may be, the shallow soil upon
 the hills and the marshy soil in the lowlands, has taught them that
 there is greater safety and stability in a broad foundation than in a
 deeply penetrating one, and so almost without exception the tree roots
@@ -2170,23 +2145,23 @@ bind the underbrush together in a tough, elastic mat, which catches and
 holds on to every projection about the clothes, jerking revolvers from
 belts, and wrenching the rifle from the hand, or, hanging in trap-like
 loops from the trees, catch one about the neck, or constantly drag
-one's hat from the head. The one exception noted above is the <i>bejuco
-de agua</i> or water vine. This vine, which looks like an old worn manilla
+one's hat from the head. The one exception noted above is the _bejuco
+de agua_ or water vine. This vine, which looks like an old worn manilla
 rope, is to be found hanging from or twined about almost every large
 tree upon elevated ground, and to the hot and thirsty explorer it
-furnishes a most deliciously cool and clear draught.</p>
+furnishes a most deliciously cool and clear draught.
 
-<p>Seizing the vine in the left hand, a stroke of the <i>machéte</i> severs it a
-foot or two below the hand, and another quick stroke severs it again
+Seizing the vine in the left hand, a stroke of the _machéte_ severs it
+a foot or two below the hand, and another quick stroke severs it again
 above the hand; immediately a stream of clear, tasteless water issues
-from the lower end and may be caught in a dipper or <i>á la native</i>
+from the lower end and may be caught in a dipper or _á la native_
 directly in the mouth. A three-foot length of vine two inches in
 diameter will furnish at least a pint of water. The order of cutting
 mentioned above must invariably be adhered to, otherwise, if the upper
 cut be made first, the thirsty novice will find he has in his hand only
-a piece of dry cork-like rope.</p>
+a piece of dry cork-like rope.
 
-<p>It is practically impossible to judge of the age of the huge trees in
+It is practically impossible to judge of the age of the huge trees in
 these forests. Mighty with inherent strength, stayed to the ground and
 to their fellows by the numerous vines, sheltered and protected also by
 their fellows from the shock of storms, their huge trunks have little
@@ -2205,9 +2180,9 @@ with him everything in his reach, crashes to the earth with a roar
 which elicits cries of terror from bird and beast, and goes booming
 through the quivering forest like the report of a heavy cannon. A patch
 of blue sky overhead and a pile of impenetrable debris below, mark for
-years the grave of the old hero.</p>
+years the grave of the old hero.
 
-<p>As regards the insect and reptile pests of the country it has been my
+As regards the insect and reptile pests of the country it has been my
 experience that both their numbers and capacity for torment have been
 greatly exaggerated. Mosquitoes, flies of various sizes, wasps and
 stinging ants exist, and the first in some places in large numbers; yet
@@ -2235,47 +2210,48 @@ way, if they make any move. The only snake that is at all aggressive,
 as far as my observations go, is a long, black, non-poisonous snake.
 This will sometimes advance upon the intruder with head raised a couple
 of feet from the ground, or if coiled about a tree will lash at him
-with its tail.</p>
+with its tail.
 
-<p>The floral exhibit of these forests is apt to be disappointing to one
+The floral exhibit of these forests is apt to be disappointing to one
 whose ideas have been formed by a perusal of books. An occasional
-scarlet passion flower; now and then the fragrant cluster of the <i>flor
-del toro;</i> a few insignificant though fragrant flowering shrubs; and in
+scarlet passion flower; now and then the fragrant cluster of the _flor
+del toro_; a few insignificant though fragrant flowering shrubs; and in
 muddy sloughs near the streams, patches of wild callas; are about all
-that meet the eye of the non-botanical wanderer in the deep forest.</p>
+that meet the eye of the non-botanical wanderer in the deep forest.
 
-<p>There is not light enough for flowers beneath the dense canopy of
+There is not light enough for flowers beneath the dense canopy of
 trees, and they, like the smaller birds, seek the tree tops and the
 banks of the river where sunlight and air are abundant. In the tree
 tops the orchids and other flowering parasites run riot. Many of the
 trees are themselves flowering, and if one can look down upon the tree
 tops of a valley in March or April, he sees the green expanse enlivened
-by blazing patches of crimson, yellow, purple, pink, and white.</p>
+by blazing patches of crimson, yellow, purple, pink, and white.
 
-<p>The river banks are the favorite home of the flowering vines, and there
+The river banks are the favorite home of the flowering vines, and there
 they form great curtains swaying from the trees in bright patterns of
 yellow, pink, red and white. The grassy banks and islands, and the
-shallow sand spits also bring forth innumerable varieties of aquatic plants.</p>
+shallow sand spits also bring forth innumerable varieties of aquatic
+plants.
 
-<p>So much for the Atlantic slope of the country.</p>
+So much for the Atlantic slope of the country.
 
-<p>On the west side between the Lake and the Pacific the work is very
+On the west side between the Lake and the Pacific the work is very
 different. There it is possible to ride mule-back to the top of a
 commanding hill, sit down and make the reconnaissance sketch at
 leisure. The secondary reconnaissances may also be made mule-back, and
 everywhere the rolling country and the cleared and cultivated fields,
-permit the engineer to see where he is going and how he is going.</p>
+permit the engineer to see where he is going and how he is going.
 
-<p>His surroundings are also different. He moves camp in an oxcart instead
+His surroundings are also different. He moves camp in an oxcart instead
 of a canoe. His eyes instead of being confined by the impenetrable veil
 of the tropical thicket, feast upon views of the distant mountains, the
 crisp waves of the Lake, and the blue expanse of the Pacific. During
 the day he meets black-eyed and brown-limbed señoritas, instead of wild
 hogs and turkeys, and at night as he turns in, he hears, not the scream
-of tigers, but the songs of the <i>lavandera's</i> ecru daughters floating
-across the stream which supplies their wash-tubs and his camp.</p>
+of tigers, but the songs of the _lavandera's_ ecru daughters floating
+across the stream which supplies their wash-tubs and his camp.
 
-<p>The first grand natural feature which arrests attention in the most
+The first grand natural feature which arrests attention in the most
 cursory examination of the map of Nicaragua is the Great Lake. This
 lake with an area of some three thousand square miles and a water-shed
 of about eight thousand square miles, is unique in the large proportion
@@ -2285,95 +2261,65 @@ very gradual changes of level of the lake and their confinement within
 very narrow limits. The difference between the level of the lake at the
 close of an abnormally dry season and its level at the close of an
 abnormally wet season is not more than ten feet, and the usual annual
-fluctuation is about five feet.</p>
+fluctuation is about five feet.
 
-<p>The next features that arrest attention are, first, the very narrow
+The next features that arrest attention are, first, the very narrow
 ribbon of land intervening between the western shore of the Lake and
 the Pacific, and second, the entire absence of lateral tributaries of
 any size to the upper half of the San Juan River. The river is in fact,
 as it was originally most aptly named, simply the "Desaguadero" or
-drain of the Lake.</p>
+drain of the Lake.
 
-<table align="center" border="0" cellspacing="0" cellpadding="6" summary="Figure 7">
-	<tr>
-		<td width="703">
-			<img src="images/7.jpg" alt="The Nicaragua Canal">
-		</td>
-	</tr>
-	<tr>
-		<td width="703" align="right">
-			<small><i>Julius Bien &amp; Co.</i></small>
-		</td>
-	</tr>
-	<tr>
-		<td width="703" align="center">
-			ENTRANCE TO HIGHLANDS&mdash;RIVER SAN JUAN
-		</td>
-	</tr>
-</table>
+[Illustration: ENTRANCE TO HIGHLANDS--RIVER SAN JUAN. _Julius Bien &
+Co._]
 
-<p>The length of this river is one hundred and twenty miles, from the Lake
+The length of this river is one hundred and twenty miles, from the Lake
 to the Caribbean Sea, and its total fall from one hundred to one
 hundred and ten feet. Nature has separated the river into two nearly
-equal divisions, presenting distinct and opposite characteristics.</p>
+equal divisions, presenting distinct and opposite characteristics.
 
-<p>From Lake Nicaragua to the mouth of the Rio San Carlos, a distance of
+From Lake Nicaragua to the mouth of the Rio San Carlos, a distance of
 sixty-one miles, in which occur several rapids, the total descent is
 fifty feet, quite irregularly distributed however. The surface slopes
 of the river vary from as much as 83.38 inches per mile for a short
 distance at Castillo rapids, to only .90 inch per mile through the Agua
-Muerte, the dead water below the Machuca rapids.</p>
+Muerte, the dead water below the Machuca rapids.
 
-<p>The average width of the river through this upper section is seven
+The average width of the river through this upper section is seven
 hundred feet, the minimum four hundred and twenty. In some parts of the
-Agua Muerte the depth varies from fifty to seventy-five feet.</p>
+Agua Muerte the depth varies from fifty to seventy-five feet.
 
-<p>There are very few islands in this section of the river, the banks are
+There are very few islands in this section of the river, the banks are
 covered with huge trees matted with vines, and throughout the lower
 half of the division, from Toro rapids to the mouth of the San Carlos,
-the river is confined between steep hills and mountains.</p>
+the river is confined between steep hills and mountains.
 
-<table align="center" border="0" cellspacing="0" cellpadding="6" summary="Figure 8">
-	<tr>
-		<td width="695">
-			<img src="images/8.jpg" alt="The Nicaragua Canal">
-		</td>
-	</tr>
-	<tr>
-		<td width="695" align="right">
-			<small><i>Julius Bien &amp; Co.</i></small>
-		</td>
-	</tr>
-	<tr>
-		<td width="695" align="center">
-			UPPER CASTILLO&mdash;RIVER SAN JUAN
-		</td>
-	</tr>
-</table>
+[Illustration: UPPER CASTILLO--RIVER SAN JUAN. _Julius Bien & Co._]
 
-<p>As a result of the absence of considerable tributaries already noted,
+As a result of the absence of considerable tributaries already noted,
 the fluctuations of this portion of the river conform closely to those
-of the Lake, and consequently take place gradually and are limited in range.</p>
+of the Lake, and consequently take place gradually and are limited in
+range.
 
-<p>Below the Rio San Carlos the San Juan changes its character entirely.
+Below the Rio San Carlos the San Juan changes its character entirely.
 Its average width is twelve hundred and fifty feet, its bottom is
 sandy, there are numerous islands, and the slope of the river is almost
-uniformly one foot per mile.</p>
+uniformly one foot per mile.
 
-<p>The discharge into this section of two large tributaries, the San
+The discharge into this section of two large tributaries, the San
 Carlos and the Sarapiqui, descending from the steep slopes of the Costa
 Rican volcanoes, causes much more sudden and considerable fluctuations
-of level than in the upper river.</p>
+of level than in the upper river.
 
-<p>While the lower portion of the river and especially the delta section
+While the lower portion of the river and especially the delta section
 presents very interesting features, yet the peculiar charm of the river
 is in the upper section, and the exceptional advantages it offers for
 obtaining miles of slack water navigation. This portion of the river
 with the lake and the narrow isthmus between it and the Pacific forms a
 trio of natural advantages for the construction of a canal, the
-importance of which it would be difficult to over estimate.</p>
+importance of which it would be difficult to over estimate.
 
-<p>About three miles below the mouth of the San Carlos, the Caño Machado
+About three miles below the mouth of the San Carlos, the Caño Machado
 enters the San Juan on the north bank. This stream, about one hundred
 feet wide and from eight to ten feet deep, is the last of the mountain
 or torrential tributaries of the San Juan. It can scarcely be said to
@@ -2383,9 +2329,9 @@ the cordillera. Every variety of igneous rock, from light porous pumice
 to dense metallic green-black hypersthene andesite, may be picked up in
 the bed of this stream. Agates also are common and there are occasional
 masses of jasper. Farther up, frequent outcrops of trap in situ occur,
-interspersed in some localities with numerous veins of agate.</p>
+interspersed in some localities with numerous veins of agate.
 
-<p>Twelve miles below the Machado the San Francisco enters the San Juan.
+Twelve miles below the Machado the San Francisco enters the San Juan.
 This stream, with its several tributaries, drains a large swampy valley
 sprinkled with irregular hummocks and hills. For several miles from the
 San Juan it is a sluggish, muddy stream between steep slippery banks;
@@ -2396,23 +2342,23 @@ source to the eastward in a range of hills which separates the San
 Francisco basin from the immediate Caribbean water-shed. This range,
 unlike the ones already noted, is at heart an uninterrupted mass of
 homogeneous hypersthene andesite, and with one exception nothing but
-fragments of trap or trap <i>in situ</i>, is to be found in any of the
+fragments of trap or trap _in situ_, is to be found in any of the
 streams descending from either its western or eastern slopes. The one
 exception is the Cañito Maria, a tributary of the San Francisco,
 entering it but little more than a mile from the San Juan. In the bed
 of this stream were abundant specimens of agates, jasper, and petrified
-woods of several varieties in a wonderfully good state of preservation.</p>
+woods of several varieties in a wonderfully good state of preservation.
 
-<p>This range of hills ends at the Tamborcito bend of the San Juan, four
+This range of hills ends at the Tamborcito bend of the San Juan, four
 miles below the mouth of the San Francisco, and is the last easterly
 projecting spur from the mountain backbone of the interior. Between it
 and the coast there are, however, mountain masses of equal or greater
 elevation, notably "El Gigante" and the Silico hills, the former some
 fifteen hundred feet high, but these are simply isolated mountain
 ganglia, their innumerable radiating spurs speedily giving way to
-swamps or river valleys.</p>
+swamps or river valleys.
 
-<p>The streams that flow down the eastern slope of the Silico hills are,
+The streams that flow down the eastern slope of the Silico hills are,
 from their sources to the lowlands, of almost idyllic beauty. Beginning
 as noisy little brooks tumbling over black rocks in a V-shaped ravine
 near the summit of the hills, they rapidly gather volume and slide
@@ -2426,14 +2372,14 @@ tropics are unknown in the elevated portions of their valleys, and I
 have slept more than once beside one of these streams, several hundred
 feet above sea level, without a mosquito bar, while the delightful
 "trades," rustling through the trees above me, brought the murmur of
-the Caribbean surf miles away, to mingle with that of the stream.</p>
+the Caribbean surf miles away, to mingle with that of the stream.
 
-<p>The soil of this range consists, to a depth of ten to forty feet, of
+The soil of this range consists, to a depth of ten to forty feet, of
 clay of various grades and colors, red prevailing. In the valleys this
 clay is almost invariably of a very dense consistency, and deep, dark
-red in color.</p>
+red in color.
 
-<p>From the foot-hills of the range to the coast, is a low level stretch
+From the foot-hills of the range to the coast, is a low level stretch
 of country, a dozen miles wide, interspersed with lagoons and swamps.
 Near the hills, where the elevation of the ground will average about
 fifteen feet above sea level, the soil is composed almost entirely of
@@ -2445,34 +2391,34 @@ sea the average elevation is barely five feet above the sea level, and
 the sand and mould above mentioned are the only materials met. A short
 distance from the ocean the vegetable earth-covering disappears and
 only the sand is left, extending to an unknown depth and reaching out
-into the sea.</p>
+into the sea.
 
-<p>West of Lake Nicaragua, from the Rio Lajas to Brito, as we leave the
+West of Lake Nicaragua, from the Rio Lajas to Brito, as we leave the
 lake shore, the ground rises almost imperceptibly to the "Divide" among
 cleared and gently undulating fields. Then we drop into the sinuous
 gorge of the Rio Grande only to emerge, a few miles farther on, into
-the upper end of the Rio Grande and Tola basin.</p>
+the upper end of the Rio Grande and Tola basin.
 
-<p>To the right the Tola valley stretches to the northward, and all around
+To the right the Tola valley stretches to the northward, and all around
 high and wooded hills encircle the valleys except directly in front
 where a narrow gateway in the coast hills opens to the Pacific. In the
 bottom of this valley are a few farms and through it wander devious
 roads. Beyond the narrow gateway in the hills, less than three miles of
-level swampy <i>salinas</i> reach to the surf of the Pacific.</p>
+level swampy _salinas_ reach to the surf of the Pacific.
 
-<p>The views from the hills which flank the gateway of the Rio Grande, at
+The views from the hills which flank the gateway of the Rio Grande, at
 La Flor, are wonderfully attractive. I well remember one camp on the
 hillside, from which in one direction the eye takes in the fertile
 valley of the Tola and Rio Grande, backed by the rolling hills of the
 "Divide" and over them the symmetrical peak of Ometepe, its base washed
 by the waves of the great lake. In the other direction the Pacific lies
 apparently but a stone's throw below, the little port of Brito at one's
-very feet.</p>
+very feet.
 
-<p>This same camp inspired one young engineer and enthusiast to express
-himself something as follows:</p>
+This same camp inspired one young engineer and enthusiast to express
+himself something as follows:
 
-<blockquote>"What if, in this camp, we should, like Rip Van Winkle, sleep for ten
+"What if, in this camp, we should, like Rip Van Winkle, sleep for ten
 years, and then awakening look about us? We are still at Brito, but
 instead of being in the wilderness, we look down upon a thriving city.
 In the harbor are ships from all ports of the world. Ships from San
@@ -2481,16 +2427,16 @@ shorten their journey by 10,000 miles. Ships from Valparaiso, headed
 for New York, which will take the short cut and save 5000 miles and the
 dread storms of Cape Horn. At many a masthead floats the British flag,
 and vessels from Liverpool, with their bows turned towards San
-Francisco, have shortened their journey by 7000 miles."</blockquote>
+Francisco, have shortened their journey by 7000 miles."
 
-<blockquote>"We go aboard one of the many steamers flying the 'stars and stripes'
+"We go aboard one of the many steamers flying the 'stars and stripes'
 and start eastward. All along the line the face of the country has
 changed; the fertile shores of the Tola basin are occupied by cacao
 plantations, fields have replaced forests, villages have grown to
 towns, and factories driven by the exhaustless water power furnished by
-the canal have sprung up on every available site."</blockquote>
+the canal have sprung up on every available site."
 
-<blockquote>"Along the shore of the lake are immense dry docks, and vessels are
+"Along the shore of the lake are immense dry docks, and vessels are
 resting in this huge fresh water harbor before setting out again on
 their long voyages. The broad bosom of the noble San Juan is quivering
 with the strokes of tireless propellors. The roar of the great dam at
@@ -2499,15 +2445,19 @@ is entered. Here the country is scarcely recognizable so greatly has it
 changed. Wilderness and marsh have disappeared, and only great fields
 of plantains and bananas and dark green orange groves are to be seen. A
 day from Brito and the steamer's bow is rising to the long blue swell
-of the Caribbean at Greytown."</blockquote>
+of the Caribbean at Greytown."
 
-<p>Well is this picture calculated to excite enthusiasm, for it means the
+Well is this picture calculated to excite enthusiasm, for it means the
 dream of centuries realized, the cry of commerce answered, and our
 imperial Orient and Occident-facing Republic resting content with
-coasts united from Eastport to the Strait of Fuca.</p>
-
-<div>*** END OF THE PROJECT GUTENBERG EBOOK 50704 ***</div>
-</body>
-</html>
+coasts united from Eastport to the Strait of Fuca.
 
 
+
+
+
+
+End of the Project Gutenberg EBook of The National Geographic Magazine, Vol.
+I., No. 4, October, 1889, by Various
+
+*** END OF THE PROJECT GUTENBERG EBOOK 50704 ***
